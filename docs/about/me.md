@@ -1,8 +1,7 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/Portfoil Pic.jpg)
 
-This is a test
 
 你好
 您好
