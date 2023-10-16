@@ -3,6 +3,21 @@ hide:
     - toc
 ---
 
-# Bootcamp
+# Landing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Landing is the first week of the school year, we went to few neighbor's shop that really fanstinating.
+
+NO.1 22@
+[](../images/22_1.HEIC)
+[](../images/22_2.HEIC)
+[](../images/22_3.HEIC)
+[](../images/22_4.HEIC)
+
+No.2 TansfoLAB
+[](../images/TansfoLAB%20BCN_1.HEIC)
+[](../images/TansfoLAB%20BCN_2.HEIC)
+
+No.3 Biciclot
+[](../images/Biciclot_1.HEIC)
+[](../images/Biciclot_2.HEIC)
+[](../images/Biciclot_3.HEIC)
