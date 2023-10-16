@@ -16,7 +16,7 @@ nav:
   - Reflections :
       - Term 1:
           - Git documentation guide: term1/git.md
-          - Bootcamp: term1/01-Bootcamp.md
+          - Landing: term1/01-Landing.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
       - Term 2:
