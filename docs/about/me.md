@@ -1,35 +1,23 @@
 # About
 
-![](../images/Portfoil Pic.JPG)
 
 
-你好
+```
+                                                            你好
+                                                            您好
+                                                            HELLO
+                                                            HOLA
 
-您好
+                DUDU-MILKIE TEDDY BEAR                     0     I                      Beijing, China
+                                                                                        New York, United State
+                aka FUTURE HACKER                            <;>                        Shanghai, China
+                                                                                        Barcelona, Catalunya, Spain
 
-HELLO
-
-HOLA
-
-DUDU: MILKIE TEDDY BEAR-Oneday I will become a hackER.
-
-Where: 
-Beijing, China
-
-NewYork, United State
-
-Shanghai, China
-
-Barcelona, Spain
-
-What:
-Interior-Architecture Designer
-
-History of Art
-
-Fine Art
-
-
+                                                    Interior-Architecture Designer
+                                                            History of Art
+                                                              Fine Art
+```
+FOR FUTURE: the website is still in progressing.
 
 
     
