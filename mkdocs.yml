@@ -19,8 +19,9 @@ nav:
           - Design Studio 01: term1/03-Design Studio 01.md 
           - Documenting Design: term1/04- Documenting Design.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - The Machine Paradox: term1/05- The Machine Paradox.md
           - Living with Your Own Ideas: term1/06- Living with Your Own Ideas.md
-          - The Machine Paradox: term1/05- The Machine Paradox. md
+             
       - Term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
@@ -46,7 +47,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: purple
+    primary: Blue
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
