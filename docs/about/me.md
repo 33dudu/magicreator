@@ -16,9 +16,10 @@
 
                                                     Interior-Architecture Designer
                                                             History of Art
-                                                              Fine Art
-```
-FOR FUTURE: the website is still in progressing.
+                                                              Fine Art 
+``` 
+
+FOR FUTURE: the website design is still in progressing.
 
 
     
