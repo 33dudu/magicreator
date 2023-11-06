@@ -46,7 +46,7 @@ theme:
   font:
     # See available fonts at https://fonts.google.com/
     text: Ubuntu
-    code: VT323
+    code: VT323 
   icon:
     logo: material/memory
   favicon: images/favicon.svg
@@ -115,3 +115,11 @@ extra_css:
 markdown_extensions:
   - attr_list
   - md_in_html
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css

@@ -1,5 +1,13 @@
 # About
+```
+JUST FOR FUN
+basty girl from Uranus
+:octicons-heart-fill-24:{ .heart }
+
+
+```
 ![](../images/E1.jpg){: style="height:416.5px;width:502.4px"}
+
 
 
 
@@ -14,12 +22,14 @@
                                                              <;>                        Shanghai, China
                 FUTURE HACKER                                                       Barcelona, Catalunya, Spain
 
-                                              Interior-Architecture Designer
+                                               Interior-Architecture Design
                                                        History of Art
                                                            Fine Art 
 ``` 
 
+```
 FOR FUTURE: the website design is still in progressing.
+```
 
 
     
