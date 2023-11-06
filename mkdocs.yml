@@ -48,7 +48,7 @@ theme:
     text: Ubuntu
     code: VT323
   icon:
-    logo: docs/images/Untitled_Artwork.jpg
+    logo: material/memory
   favicon: images/favicon.svg
   features:
     - instant
