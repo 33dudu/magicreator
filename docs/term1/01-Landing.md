@@ -5,7 +5,7 @@ hide:
 
 # Landing
 
-![](../images/m1.jpg){: style="height:388.3px;width:457.8px"}
+![](../images/m1.jpg){: style="height:216.5px;width:302.4px"}
 
 
 ``
