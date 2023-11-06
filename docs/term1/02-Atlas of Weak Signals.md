@@ -5,6 +5,7 @@ hdie:
 
 # Atlas of Weak Signals
 
-[](../images/AoWS1.0.jpg)
-THIS IS THE 1.0 AoWS
+![AoWS](../images/AoWS1.jpg)
+
+THIS IS THE 1.0 AoWS erferf
 
