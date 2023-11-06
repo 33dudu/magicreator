@@ -32,22 +32,16 @@ nav:
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
+
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
-    - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
-    - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: https://www.instagram.com/d.q_y/?hl=en/
+
 
 theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: Blue
+    primary: purple
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/

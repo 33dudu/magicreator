@@ -1,5 +1,5 @@
 # About
-![](../images/E1.jpg)
+![](../images/E1.jpg){: style="height:403.2px;width:302.4px"}
 
 
 
