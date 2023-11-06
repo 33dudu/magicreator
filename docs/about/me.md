@@ -1,5 +1,5 @@
 # About
-![](../images/E1.jpg){: style="height:403.2px;width:302.4px"}
+![](../images/E1.jpg){: style="height:416.5px;width:502.4px"}
 
 
 
@@ -9,14 +9,14 @@
                                                             HELLO
                                                             HOLA
 
-                DUDU-MILKIE TEDDY BEAR                     0     I                      Beijing, China
-                                                                                        New York, United State
-                aka FUTURE HACKER                            <;>                        Shanghai, China
-                                                                                        Barcelona, Catalunya, Spain
+                33                                         0     I                      Beijing, China
+                DUDU- MILKY TEDDY BEAR                                                 New York, United State
+                                                             <;>                        Shanghai, China
+                FUTURE HACKER                                                       Barcelona, Catalunya, Spain
 
-                                                    Interior-Architecture Designer
-                                                            History of Art
-                                                              Fine Art 
+                                              Interior-Architecture Designer
+                                                       History of Art
+                                                           Fine Art 
 ``` 
 
 FOR FUTURE: the website design is still in progressing.

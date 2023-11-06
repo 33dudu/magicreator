@@ -15,6 +15,10 @@ body {
   background-color: black;
 }
 
+code {
+  color: #fdf7f7;
+}
+
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
