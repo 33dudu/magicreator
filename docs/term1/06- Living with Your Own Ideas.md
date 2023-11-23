@@ -3,10 +3,9 @@
     :==FACULTY==: 
     Guillem Camprodon, Tomas Diez, Laura Benitez
 
+    ==CALENDAR==: 02-10 → 06-10
 
-==CALENDAR==: 02-10 → 06-10
-
-==TRACK==: Application
+    ==TRACK==: Application
 
 <h1> 
 REFLECTION: </h1>
