@@ -16,7 +16,7 @@ REFLECTION: </h1>
 
 The sculpture is made with WASTES. 
 I was questioning myself /HOW TO TREAT WASTES ARTISTICALLY?/
-10/28/2023
+`10/28/2023`
 I started ask myself two questions 
  /Which bio materials are the most commonly wasted at my home?/
  /Which organic food materials are the most commonly wasted at my home?/
