@@ -1,4 +1,9 @@
 # About
+
+!!! danger
+    Before introduce anything, one statement need to be know.
+    By using mkdocs or github, I will be bold
+
 ```
 JUST FOR FUN
 ~ - ~   basty girl from Uranus

@@ -3,9 +3,9 @@ site_name: 33 DUDU- FUTURE HACKER
 site_description: Master in Design for Emergent Futures
 site_author: QIANYIN DU
 copyright: Copyleft 2023 "QIANYIN DU" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+repo_name: 'Future Hacker progress'
+site_url: https://33dudu.github.io/magicreator/
+repo_url: 'https://github.com/33dudu/magicreator'
 
 
 nav:
@@ -81,6 +81,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format  
   - codehilite:
       guess_lang: false
   - toc:
@@ -121,10 +126,3 @@ extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
 
-markdown_extensions:
-  - attr_list
-  - md_in_html
-
-
-extra_css:
-  - stylesheets/extra.css
