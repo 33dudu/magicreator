@@ -4,6 +4,16 @@ hide:
 ---
 
 # Landing
+!!! info
+    ==FACULTY==: Guillem Camprodon/ Tomas Diez/ Laura Benitez/ Milena Calvo Juarez/ Josep Marti Elias/ Pablo Zuloaga Betancourt/
+    
+    ==CALENDAR==: 02/10/2023 - 06/10/2023
+
+    ==TRACK==: Application
+
+!!! quote
+
+
 ```
 here we go ~z , z~
 ```

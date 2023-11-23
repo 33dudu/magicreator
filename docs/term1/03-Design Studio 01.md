@@ -1,3 +1,11 @@
+!!! info
+    ==FACULTY==: Guillem Camprodon/ Tomas Diez/ Jana Tothill Calvo/ Roger Guilemany/
+    
+    ==CALENDAR==: 06/11/2023 - 19/12/2023
+
+    ==TRACK==: Reflection
+
+!!! quote
 ```
 i call it THE BRAIN SHEET
 ```

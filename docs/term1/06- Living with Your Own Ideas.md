@@ -1,13 +1,16 @@
 
-!!! note 
 
-    :==FACULTY==: Osacar Tomico / Kristina Andersen
+
+!!! info
+    ==FACULTY==: Osacar Tomico / Kristina Andersen
     
     ==CALENDAR==: 31/10/2023 - 03/11/2023
 
     ==TRACK==: Reflection
 
+!!! quote
 
+   
 
 # REFLECTION:
 
