@@ -1,6 +1,19 @@
 
-REFLECTION:
-I made a new art sculpture called HARIBO DE HARWEEN. 
+!!! note 
+    :==FACULTY==: 
+    Guillem Camprodon, Tomas Diez, Laura Benitez
+
+
+==CALENDAR==: 02-10 → 06-10
+
+==TRACK==: Application
+
+<h1> 
+REFLECTION: </h1>
+
+<p> I made a new art sculpture called HARIBO DE HARWEEN. 
+
+
 The sculpture is made with WASTES. 
 I was questioning myself /HOW TO TREAT WASTES ARTISTICALLY?/
 10/28/2023

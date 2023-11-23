@@ -1,5 +1,5 @@
-mkdocs
-mkdocs-material
+mkdocs~=1.5,>=1.5.3
+mkdocs-material>1.0.0
 mkdocs-material-extensions
 mkdocs-git-revision-date-localized-plugin
 mkdocs-glightbox
