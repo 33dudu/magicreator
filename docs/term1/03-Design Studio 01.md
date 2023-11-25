@@ -6,6 +6,18 @@
     ==TRACK==: Reflection
 
 !!! quote
+
+ example for diagrams
+``` mermaid
+graph LR
+  A[Start] --> B{Error?};
+  B -->|Yes| C[Hmm...];
+  C --> D[Debug];
+  D --> B;
+  B ---->|No| E[Yay!];
+```
+
+
 ```
 i call it THE BRAIN SHEET
 ```

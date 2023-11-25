@@ -9,7 +9,7 @@ repo_url: 'https://github.com/33dudu/magicreator'
 
 
 nav:
-  - MAIN: index.md 
+  - ENTRY: index.md 
   - About: about/me.md
   - Master project:
       - Initial ideas: project/project.md
@@ -23,7 +23,8 @@ nav:
           - AoWS: term1/02-Atlas of Weak Signals.md
           - The Machine Paradox: term1/05- The Machine Paradox.md
           - Living with Your Own Ideas: term1/06- Living with Your Own Ideas.md
-          - Biology Zero: term1/07- Biology-Zero.md
+          - Biology Zero: 
+              - Biology-Zero: term1/07- Biology-Zero.md
               - G.M.O: term1/10- G.M.O.md
           - Agriculture Zero: term1/08- Agriculture-Zero.md
           - Design With Others: term1/09- Design With Others.md
