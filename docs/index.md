@@ -15,5 +15,3 @@
       <font color="deeppink">I am a huge fan for **STREET ART** ;) if you also like it~ keep **SCROLLING**</font> </center>
 
 
-![](../docs/images/g1.jpg){: style="height:302px;width:403px"}
-
