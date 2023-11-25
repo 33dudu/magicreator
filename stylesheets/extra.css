@@ -19,7 +19,6 @@ body {
   
   background-color: rgb(255,255,255);
 
-  cursor: url(docs/files/cursor.cur), auto;
 }
 
 code {
@@ -63,13 +62,3 @@ code {
   background-color: red;
 }
 
-.custom-cursor {
-  position: fixed;
-  width: 20px;
-  height: 20px;
-  background-color: #ff0000; /* 设置光标的颜色或图像 */
-  border-radius: 50%;
-  pointer-events: none; /* 使自定义光标不干扰页面上其他元素的交互 */
-  transform: translate(-50%, -50%); /* 将光标的中心与鼠标位置对齐 */
-  display: none; /* 初始状态隐藏光标 */
-}
