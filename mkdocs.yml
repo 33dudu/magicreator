@@ -9,25 +9,25 @@ repo_url: 'https://github.com/33dudu/magicreator'
 
 
 nav:
-  - ENTRY: index.md 
-  - About: about/me.md
-  - Master project:
-      - GenTe Art Movement: project/gente.md
-  - Reflections :
+  - ENTRANCE: index.md 
+  - KNOCK,KNOCK: about/me.md
+  - REFLECTIONS :
       - Term 1:
-          - Landing: term1/01-Landing.md
-          - Design Studio 01: 
-             - Design Studio: term1/03-Design Studio 01.md 
+          - LANDING: term1/01-Landing.md
+          - DESIGN STUDIO 01: 
+             - BrainshIt: term1/03-Design Studio 01.md 
              - Intervention: term1/Intervention 01.md
-          - Documenting Design: term1/04- Documenting Design.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
-          - The Machine Paradox: term1/05- The Machine Paradox.md
-          - Living with Your Own Ideas: term1/06- Living with Your Own Ideas.md
-          - Biology Zero: 
-              - Biology-Zero: term1/07- Biology-Zero.md
+          - DOCUMENTING DESIGN: term1/04- Documenting Design.md
+          - AOWS: term1/02-Atlas of Weak Signals.md
+          - THE MACHINE PARADOX: term1/05- The Machine Paradox.md
+          - LIVING WITH YOUR OWN IDEAS: term1/06-Living With Your Own Ideas.md
+          - BIOLOGY ZERO: 
+              - NOTES FROM CLASS: term1/07- Biology-Zero.md
               - G.M.O: term1/10- G.M.O.md
           - Agriculture Zero: term1/08- Agriculture-Zero.md
           - Design With Others: term1/09- Design With Others.md
+  - MASTER PROJECT:
+      - GenTe Art Movement: project/gente.md
       
 
 
@@ -49,7 +49,7 @@ theme:
     accent: cyan
   font:
     # See available fonts at https://fonts.google.com/
-    text: Ubuntu
+    text: Changa
     code: VT323 
   icon:
     logo: material/memory
