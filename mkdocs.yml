@@ -15,17 +15,20 @@ nav:
       - Term 1:
           - LANDING: term1/01-Landing.md
           - DESIGN STUDIO 01: 
-             - BrainshIt: term1/03-Design Studio 01.md 
-             - Intervention: term1/Intervention 01.md
+             - BrainshIt: term1/03-Brainshit.md 
+             - Intervention 01: term1/Intervention 01.md
           - DOCUMENTING DESIGN: term1/04- Documenting Design.md
           - AOWS: term1/02-Atlas of Weak Signals.md
           - THE MACHINE PARADOX: term1/05- The Machine Paradox.md
           - LIVING WITH YOUR OWN IDEAS: term1/06-Living With Your Own Ideas.md
           - BIOLOGY ZERO: 
-              - NOTES FROM CLASS: term1/07- Biology-Zero.md
-              - G.M.O: term1/10- G.M.O.md
-          - Agriculture Zero: term1/08- Agriculture-Zero.md
-          - Design With Others: term1/09- Design With Others.md
+              - Notes: term1/07- Biology-Zero.md
+              - Genetically Modified Organism: term1/10- G.M.O.md
+          - Agriculture Zero: 
+              - Notes: term1/08- Agriculture-Zero.md
+              - Grow Magic: term1/11-Grow Magic.md
+          - DESIGN WITH OTHERS: term1/09- Design With Others.md
+          - EXTENDED INTELLIGENCES: term1/12-Extended Intelligences.md
   - MASTER PROJECT:
       - GenTe Art Movement: project/gente.md
       
@@ -52,8 +55,8 @@ theme:
     text: Changa
     code: VT323 
   icon:
-    logo: material/memory
-  favicon: images/favicon.svg
+    logo: docs/images/dudu.png
+  favicon: docs/images/dudu.png
   features:
     - instant
     - navigation.expand

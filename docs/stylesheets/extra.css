@@ -55,10 +55,10 @@ code {
 }
 
 .md-typeset .admonition.success {
-  background-color: rgba(174, 249, 249, 0.922);
+  background-color: rgba(247, 246, 243, 0.922);
 }
 
 .md-typeset .admonition.danger {
-  background-color: red;
+  background-color: rgb(246, 198, 198);
 }
 

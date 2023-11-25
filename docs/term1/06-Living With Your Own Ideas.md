@@ -1,7 +1,9 @@
+!!! Warning "HAPPENING"  
+    
+    #IN PROGRESS
 
 
-
-!!! info
+!!! info "Living With Your Own Ideas"
     ==FACULTY==: Osacar Tomico / Kristina Andersen
     
     ==CALENDAR==: 31/10/2023 - 03/11/2023
@@ -11,8 +13,6 @@
 !!! quote
 
    
-
-# REFLECTION:
 
 
 

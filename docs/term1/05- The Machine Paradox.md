@@ -1,4 +1,8 @@
-!!! info
+!!! Warning "HAPPENING"  
+    
+    #IN PROGRESS
+
+!!! info "The Machine Paradox"
     ==FACULTY==: Santiago Fuentemilla Garriga/ Guillem Camprodon/ Oscar Gonzalez/ Josep Marti Elias/ Petra Garajová/ Adai Surinach/ Mikel Llobera
     
     ==CALENDAR==:  17/10/2023 - 27/10/2023
