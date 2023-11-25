@@ -1,4 +1,8 @@
-!!! info
+!!! Warning "HAPPENING"  
+    
+    #IN PROGRESS
+    
+!!! info "Documenting Design"
     ==FACULTY==: Pablo Zuloaga Betancourt
     
     ==CALENDAR==: 4 sessions

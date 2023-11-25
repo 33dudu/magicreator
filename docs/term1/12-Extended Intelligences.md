@@ -16,3 +16,10 @@
     *--------------------------------------------*
     </font> 
     </center>
+
+!!! info "Extended Intelligences"
+    ==FACULTY==: Ramón Sangüesa/ Lucas Lorenzo Peña/ Pau Artigas
+    
+    ==CALENDAR==:28/11/2023 - 05/12/2023
+
+    ==TRACK==: Exploration
