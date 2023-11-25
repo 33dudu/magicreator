@@ -52,8 +52,8 @@ theme:
     text: Ubuntu
     code: VT323 
   icon:
-    logo: docs/images/dudu.jpg
-  favicon: docs/images/dudu.jpg
+    logo: images/dudu.png
+  favicon: images/favicon.svg
   features:
     - instant
     - navigation.expand
