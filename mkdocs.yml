@@ -53,7 +53,7 @@ theme:
     code: VT323 
   icon:
     logo: images/dudu.png
-  favicon: images/favicon.svg
+  favicon: images/dudu.png
   features:
     - instant
     - navigation.expand
