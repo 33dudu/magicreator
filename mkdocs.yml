@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: 33 DUDU- FUTURE HACKER
+site_name: 33 DUDU
 site_description: Master in Design for Emergent Futures
 site_author: QIANYIN DU
 copyright: Copyleft 2023 "QIANYIN DU" - GNU Free Documentation License
@@ -12,7 +12,7 @@ nav:
   - ENTRY: index.md 
   - About: about/me.md
   - Master project:
-      - Initial ideas: project/project.md
+      - GenTe Art Movement: project/gente.md
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing.md
@@ -45,15 +45,15 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: purple
-    accent: purple
+    primary: white
+    accent: cyan
   font:
     # See available fonts at https://fonts.google.com/
     text: Ubuntu
     code: VT323 
   icon:
-    logo: material/memory
-  favicon: images/favicon.svg
+    logo: docs/images/dudu.jpg
+  favicon: docs/images/dudu.jpg
   features:
     - instant
     - navigation.expand
@@ -128,3 +128,6 @@ extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
 
+
+extra_javascript:
+  - custom.js
