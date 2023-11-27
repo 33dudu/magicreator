@@ -54,9 +54,8 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Changa
     code: VT323 
-  icon:
-    logo: material/memory
-  favicon: images/favicon.svg
+  logo: images/dudu.png
+  favicon: images/dudu.png
   features:
     - instant
     - navigation.expand
