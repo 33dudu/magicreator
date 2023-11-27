@@ -1,3 +1,5 @@
+!!!abstract "ENTRANCE"
+
 !!! Warning "WELCOME TO THE PLAYGROUND"
     <center>
       
@@ -15,3 +17,5 @@
       <font color="deeppink">I am a huge fan for **STREET ART** ;) if you also like it~ keep **SCROLLING**</font> </center>
 
 
+!!!example "STREET ART"
+      > # **uploading**

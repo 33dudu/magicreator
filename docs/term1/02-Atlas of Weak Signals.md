@@ -15,7 +15,45 @@ hdie:
 
     ==TRACK==: Reflection
 
-![AoWS](../images/AoWS1.jpg)
-``1.0 AoWS
-`` 
+!!! quote
+    # Multi-scalar Thinking
 
+!!! abstract "**Weak Signal**"
+    
+    * ==Situating==: 
+        * understanding surroudings
+
+    * ==Organization==: 
+        * reduceing complexity
+        * making sense
+        * conenection arise
+
+    * ==Narrative==:
+        * take s step back
+        * underseand your own narrative 
+        * through the diverse conversations
+
+    * ==Performative or Practicipative==：
+        * combine design spaces- "collaboration design spaces
+        * performative as giving ==feedback==to oneself
+
+    * ==Inspiration==:
+        * bring together
+
+        ```mermaid
+        graph LR
+        Abstract --> Actual
+        ```
+
+        ```mermaid
+        graph LR
+        WeakSignal --> EmergentsFutures
+        ```
+        ```mermaid
+        graph LR
+        Actions --> AlternativePresents
+        ```
+  
+
+!!!example "1.0 AoWS"
+    ![AoWS](../images/AoWS1.jpg)

@@ -1,18 +1,31 @@
 
-!!!Warning "HAPNNING"
-    <center>
-    <font color="black">     
-    *--------------------------------------------*
+!!! info "BINGO"
+    ==FACULTY==:Guillem Camprodon/ Tomas Diez/ Jana Tothill Calvo/ Roger Guilemany
+            
+    ==CALENDAR==:  30/10/2023 - 06/11/2023
 
-    #尽请期待
+    ==TRACK==:Instrumentation
 
-    #COMING SOON
-
-    #Estén atentos
-
-    #Estigueu atents
+    ==TEAM MEMBERS==: Albert Vila Bonfill/ Jorge De la Mora/ Qianyin Du/ Emmanuel Pangilinan
 
 
-    *--------------------------------------------*
-    </font> 
-    </center>
+    Intervention
+
+!!! quote
+    #IN PROGRESS
+
+!!! bug "Videos"
+    #IN PROGRESS
+
+!!!abstract "Feedback" 
+    from Tomas 
+
+    11/13/2023
+
+    We should not design a solution, the solution will shows up by itself once we work with the society and the community.
+
+    We should work outside of the "BUBBLES" (means ourselves). 
+
+    We should not only seating infront of our computer or desk. 
+
+    We should go outside, get the information, get the feedback, get the problem, test the problems.
