@@ -62,3 +62,12 @@ code {
   background-color: rgb(246, 198, 198);
 }
 
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  /* You can use other CSS properties to style the container as needed */
+}
+
+.image-container img {
+  max-width: 48%; /* Adjust as needed */
+}
