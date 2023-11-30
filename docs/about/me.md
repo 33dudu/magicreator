@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # WHO IS THIS = =
 !!! danger
     Before introduce anything, one statement need to be know.

@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 !!!abstract "ENTRANCE"
 
 !!! Warning "WELCOME TO THE PLAYGROUND"
@@ -20,4 +25,11 @@
 !!!example "STREET ART"
       > # **uploading**
 
-![](images/Graffiti/g5.png){: style="height:1512px;width:2016px"}
+      ![](images/Graffiti/g1.jpg){: style="height:300px;width:280px"}
+      ![](images/Graffiti/g2.jpg){: style="height:300px;width:250px"}
+      ![](images/Graffiti/g3.jpg){: style="height:300px;width:400px"}
+      ![](images/Graffiti/g4.png){: style="height:300px;width:400px"}
+      ![](images/Graffiti/g5.png){: style="height:300px;width:250px"}
+      ![](images/Graffiti/g6.png){: style="height:300px;width:250px"}
+      ![](images/Graffiti/g7.webp){: style="height:300px;width:360px"}
+      ![](images/Graffiti/ga.jpg){: style="height:300px;width:210px"}
