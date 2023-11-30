@@ -10,7 +10,9 @@ hide:
     <center>![](../images/bald.jpg)
 
 
-
+!!! example "Follow-up"
+    https://pelican-bellflower-gpl6.squarespace.com/
+    
 !!! question "Who?"
     !!! info "JUST FOR FUN"
         <center>**~ - ~   basty girl from Uranus**
