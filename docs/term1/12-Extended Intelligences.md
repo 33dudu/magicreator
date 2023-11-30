@@ -62,6 +62,7 @@ hide:
         ![](../images/cat01.jpg){: style="height:300px;width:240px"}
         ![](../images/gaudi01.jpg){: style="height:300px;width:240px"}
 
+
         !!!quote "Conversation"
             By having a conversation with Albert, which he is a Catalan man. 
         
@@ -75,9 +76,17 @@ hide:
 
         !!!example
             >* what if we collected all the data of Guadi's art work then move it to AI to help us do the best calculating and fair desicions.
-            </center>
-            https://www.imdb.com/title/tt14082636/
+
+            https://www.instagram.com/gaudism.ai/?img_index=1
+            
             ![](../images/guadism01.png){: style="height:800px;width:420px"}
+
+            ![](../images/gaudism01.png){: style="height:425px;width:330px"}
+            ![](../images/gaudism02.png){: style="height:425px;width:330px"}
+
+            ![](../images/gaudism03.jpeg){: style="height:425px;width:330px"}
+            ![](../images/gaudism04.png){: style="height:425px;width:330px"}
+
 
         !!!info "References"
             https://www.instagram.com/gaudism.ai/?img_index=1
@@ -127,17 +136,20 @@ hide:
 
             https://www.britannica.com/video/179811/debris-Pacific-Ocean
 
+            https://theoceancleanup.com/  (introduced by Carlotta Alberta Hylkema)
+
+
     !!! question "Who are we helping?"
         # The Children
 
         > Megan
         > <center> ![](../images/meganmovie.jpg){: style="height:425px;width:300px"}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BRb4U99OU80?si=_TgTalBytsx5XGmu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         - M3GAN is a marvel of artificial intelligence, a lifelike doll that's programmed to be a child's greatest companion and a parent's greatest ally. Designed by Gemma, a brilliant roboticist, M3GAN can listen, watch and learn as it plays the role of friend and teacher, playmate and protector. When Gemma becomes the unexpected caretaker of her 8-year-old niece, she decides to give the girl an M3GAN prototype, a decision that leads to unimaginable consequences.
         
         - M3GAN (pronounced "Megan") is a 2022 American science fiction horror film directed by Gerard Johnstone. It was written by Akela Cooper from a story by Cooper and James Wan (who also produced with Jason Blum). Allison Williams and Violet McGraw star, Amie Donald physically portrays M3GAN, and Jenna Davis voices the character.
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BRb4U99OU80?si=81_Ua3vf1TmOZpWZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         !!!info "References" 
             https://www.imdb.com/title/tt8760708/
