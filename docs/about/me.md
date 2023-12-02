@@ -11,13 +11,15 @@ hide:
 
 
 !!! example "Follow-up"
-    https://pelican-bellflower-gpl6.squarespace.com/
+    # Do you want to check out the young "mi" ?
+
+    ## GO HERE: https://pelican-bellflower-gpl6.squarespace.com/
     
 !!! question "Who?"
     !!! info "JUST FOR FUN"
         <center>**~ - ~   basty girl from Uranus**
 
-        ![](../images/E1.jpg){: style="height:416.5px;width:590.4px"}</center>
+        ![](../images/E1.jpg){: style="height:300px;width:390px"}</center>
 
 
 !!! question "Where?"

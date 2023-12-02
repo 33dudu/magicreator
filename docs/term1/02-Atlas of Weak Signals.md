@@ -18,7 +18,7 @@ hdie:
 !!! quote
     # Multi-scalar Thinking
 
-!!! abstract "**Weak Signal**"
+!!! note "**Weak Signal**"
     
     * ==Situating==: 
         * understanding surroudings

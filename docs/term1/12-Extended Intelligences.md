@@ -232,9 +232,51 @@ hide:
     !!!info "References"
         https://towardsdatascience.com/the-non-treachery-of-dataset-df1f6cbe577e
 
-babysister- surviliens
-megan
-ka sun
+
+what kind of data (images, text, world)
+
+what task you want to
+
+different specific models of the same type of network
+
+its internal functioning 
+
+
+deep neural network
+
+![deepnetwork](https://hackmd.io/_uploads/HkhsDE8BT.jpg)
+
+
+ex:
+images (all the images should be in the files)
+
+
+https://github.com/simonw/laion-aesthetic-datasette
+
+!!! quote
+    From Taco 2 CoCo 2 Yolo - Albert
+    
+    If for any reason the connection is broken. Just call me again- Colab
+
+- [ ] Dataset for trash identification/ Taco,
+- [ ] Train and model for Dataset for trash/ COCO/YOLO/ Colab
+- [ ] Obj. classification data set 
+- [ ] Neural Network
+
+What catalog do we what to do for the Dataset for 2023/12/05
+**Floder:**
+* Cigarratte 
+* Drink Can
+* Foam Cup
+* Negative=none of above
+
+**For Future**
+* Invite Generation Identify train model
+
+AI --> Detect A Trash --> Trace the Information of the trash --> -Age-Material-Brand-
+
+
+
 
 
 

@@ -18,7 +18,10 @@ hide:
 
 
 !!! quote
-    #一方水土养一方人
+    <center>
+    # 一方水土养一方人
+    </center>
+    > Different regions nurture different people." This expression suggests that the characteristics of a particular environment, including its water and soil conditions, influence the development and traits of the people living in that region. It emphasizes the close relationship between the natural environment and the cultural or physical attributes of the inhabitants
 
 !!! note
     #IN PROGRESS

@@ -85,10 +85,10 @@ hide:
 
         4. Laid out all parts individually and documented.
 
-    ## Testing
+    > ## Testing
 
 
-    !!!abstract "Results"
+    !!!note "Results"
         **How many motors did we find inside?**
 
         Five motors - they are used to move the extruder in the three axis to permit drawing in 3D space.
@@ -103,7 +103,7 @@ hide:
 
         Yes, temperature sensors.
 
-    !!!abstract "Conclusions"
+    !!!note "Conclusions"
         **What did you learn?**
 
         - How a 3D printer is assembled
