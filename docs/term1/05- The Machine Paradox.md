@@ -3,9 +3,6 @@ hide:
     - toc
 ---
 
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS
 
 !!! info "The Machine Paradox"
     ==FACULTY==: Santiago Fuentemilla Garriga/ Guillem Camprodon/ Oscar Gonzalez/ Josep Marti Elias/ Petra Garajová/ Adai Surinach/ Mikel Llobera
@@ -17,14 +14,18 @@ hide:
     ==TEAM MEMBERS==: Albert Vila Bonfill/ Anna Fedele/ Dhrishya Ramadass/ Mihnea Nicolae Patrascu/ Nicolo Baldi/ Qianyin Du
 
 !!! quote
-    #IN PROGRESS
-!!!info "Breakdown"
-    <iframe title="3D Printer" width= "100%" height="400px" frameborder="0" ui-theme="dark" preload="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e502641d13b24bd5b1fdc4618c199533/embed?autostart=1&ui_theme=dark"> </iframe>
+    <center>
+    # **:bomb: Breakdown	:bomb:**
+
+    ![](../images/machine01.gif){: style="height:400px;width:250px"}
+    </center>
+
+
+!!!info "FundacioCIM-3D Printer"
 
     
 
-
-    !!! Note " Forensic Report: FundacioCIM-3D Printer" 
+    !!! Note " Info" 
         
         | Identity of the reporting agency       | MDEF                           |
         |----------------------------------------|--------------------------------|
@@ -34,7 +35,8 @@ hide:
         | Date of report                         | 19/10/2023               |
         | Identity and signature of the examiner | Albert , Anna, Dhrishya, Mihnea, Nicolo, Qianyin     			  |
         
-    
+        <iframe title="3D Printer" width= "100%" height="400px" frameborder="0" ui-theme="dark" preload="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e502641d13b24bd5b1fdc4618c199533/embed?autostart=1&ui_theme=dark"> </iframe>
+  
 
     !!!warning "Examination"
         Descriptive list of items submitted for examination, including serial number, brand and model
@@ -131,7 +133,18 @@ hide:
         - https://reprapbcn.wordpress.com/tag/3dprinter/
         - https://www.youtube.com/watch?v=MJ61LIdlyww
 
-!!!info "LifeX"
+!!!success "LifeX"
+    !!!note "Machine Outlook"
+        <center>
+        ![](../images/PLAN.jpg){: style="height:300px;width:490px"}
+        ![](../images/RENDERING.jpg){: style="height:300px;width:490px"}
+        </center>
+    !!!note "Bookmark Outlook"
+        <center>
+        ![](../images/bookmark01.png){: style="height:500px;width:350px"}
+        ![](../images/bookmark02.png){: style="height:500px;width:350px"}
+        </center>
+
     **At its core, LifeX uses the X-axis motor and belt system. With a simple push of a button, a pen draws a line on a paper below, supposedly predicting the age at which the user will pass away. It's a tongue-in-cheek nod to the dubious claims of some fortune tellers. In truth, an Arduino board is programmed to halt at a random number, influenced by the moment the user activates it.**
 
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/878611346?h=13229e04f0" width="100%" height="385" frameborder="0" allowfullscreen></iframe>
@@ -140,5 +153,3 @@ hide:
 
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/vosQQlPurCI?si=WorDul6GVfAR135Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
 
-    ![](../images/PLAN.jpg)
-    ![](../images/RENDERING.jpg)

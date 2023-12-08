@@ -1,12 +1,7 @@
 ---
 hide:
     - toc
----
-
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS
-    
+---   
 !!! info "Documenting Design"
     ==FACULTY==: Pablo Zuloaga Betancourt
     
@@ -15,21 +10,13 @@ hide:
     ==TRACK==: Reflection
 
 !!! quote
-    # Documentation is a love letter that you write to your future self.  
-    # - Damian Conway
+    <center>
+    ![](../images/pablo.png){: style="height:300px;width:230px"}
 
-!!! abstract "futurewebsite prototype"
-    example for diagrams
-    ``` mermaid
-    graph LR
-    A[Start] --> B{Error?};
-    B -->|Yes| C[Hmm...];
-    C --> D[Debug];
-    D --> B;
-    B ---->|No| E[Yay!];
-    ```
+    ## **:sparkling_heart:"Documentation is a love letter that you write to your future self. (Damian Conway)" By Pablo:sparkling_heart:**
 
-    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcC0xoh7U7sqyXNxWp6oX6E%2FMAGICREATOR%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D8-113%26viewport%3D261%252C7%252C0.24%26t%3D4Ekya8Njaj2gLmLx-1%26scaling%3Dcontain%26mode%3Ddesign" allowfullscreen></iframe>
+
+    </center>
 
 
 !!! bug "Videos"
@@ -44,6 +31,10 @@ hide:
 
 
 !!! failure "angry moment"
+    <center>
+    ![](../images/leftbookmark.jpg){: style="height:400px;width:350px"}
+    </center>
+
     Link to The Machine Paradox Intervention: https://33dudu.github.io/magicreator/term1/05-%20The%20Machine%20Paradox/
     
     **During the Open House Night on 11/24/2023, we exhibited our Machine Paradox intervention machine in the main hall. Many people came and explored. I only had 15 bookmarks left. At the same time, I was in the bio lab playing with some new materials.
@@ -56,6 +47,19 @@ hide:
 
         Link to The Machine Paradox Intervention: https://33dudu.github.io/magicreator/term1/05-%20The%20Machine%20Paradox/
         
-        ![](../images/leftbookmark.jpg)
 
 !!! failure "FEELING STUPID moment"
+
+
+!!! abstract "futurewebsite prototype"
+    example for diagrams
+    ``` mermaid
+    graph LR
+    A[Start] --> B{Error?};
+    B -->|Yes| C[Hmm...];
+    C --> D[Debug];
+    D --> B;
+    B ---->|No| E[Yay!];
+    ```
+
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcC0xoh7U7sqyXNxWp6oX6E%2FMAGICREATOR%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D8-113%26viewport%3D261%252C7%252C0.24%26t%3D4Ekya8Njaj2gLmLx-1%26scaling%3Dcontain%26mode%3Ddesign" allowfullscreen></iframe>

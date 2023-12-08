@@ -2,9 +2,7 @@
 hide:
     - toc
 ---
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS
+
 
 !!! info "Landing"
     ==FACULTY==: Guillem Camprodon/ Tomas Diez/ Laura Benitez/ Milena Calvo Juarez/ Josep Marti Elias/ Pablo Zuloaga Betancourt/
@@ -15,9 +13,21 @@ hide:
 
 !!! quote
     <center> 
+    # **:six_pointed_star: Magic is Back :six_pointed_star:**
 
-    ![](../images/m1.jpg){: style="height:530px;width:740px"}
-    #Magic is back.
+
+    ![](../images/m1.jpg){: style="height:300px;width:400px"}
+
+
+    Medium: **Brown Ink & handmade paper**
+
+    When: **2023/10/06**
+
+    Where: **Barcelona, Catalunya, Spain** 
+
+    What:  **At my secret spot in Barcelona, where the sun, sky, ocean, and graffiti converge, and a touch of magic, making it a spot filled with inspiration and significance, my official journey in Barcelona has begun. I firmly believe that God has signaled to me that I will find my answers in Barcelona.**
+
+
     </center>
 
 !!! abstract "Pictures"

@@ -1,12 +1,7 @@
 ---
-hdie:
+hide:
     - toc
 ---
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS
-
-
 
 !!! info "Atlas of Weak Signals"
     ==FACULTY==: Jana Tothill Calvo/ Roger Guilemany/
@@ -16,7 +11,9 @@ hdie:
     ==TRACK==: Reflection
 
 !!! quote
-    # Multi-scalar Thinking
+    <center>
+    # **:comet: Multi-Scalar Thinking :comet:**
+    </center>
 
 !!! note "**Weak Signal**"
     

@@ -15,10 +15,9 @@ hide:
     ==TRACK==: Exploration
 
 !!! quote
-    
-    #;) my favorite BIOLOGY~~~
-
-    #but RASTAFARI
+    <center>
+    # **:heart: :yellow_heart: :green_heart: ;) my favorite BIOLOGY~~~but RASTAFARI:heart: :yellow_heart: :green_heart:**
+    </center>
 
 !!! abstract "Notes"
     example for diagrams
