@@ -16,7 +16,9 @@ hide:
     ==TRACK==: Reflection
 
 !!! quote
-    #IN PROGRESS
+    <center>
+    # **:kiss:A Master to learn How to explain ideas {==aka  BULLSHIT==}:kiss:**
+    </center>
 
 !!! abstract "Notes 09/10/2023"
     **Way of Knowledge in 1PP**
@@ -55,12 +57,13 @@ hide:
     D --> B;
     B ---->|No| E[Yay!];
     ```
+    !!!note "Ideas"
+        <center>
+        ## **:robot:I am still working on to move the notes from Miro Board to the website.:heart:**
+        ## **:heart:If you cannot wait, check the Miro Board below = =	:robot:**
 
-    > # I am still working on move the notes from Miro Board to the website. If you cannot wait, check the Miro Board below = = 
-
-    i call it THE BRAIN SHEET
-    <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNbm96Ts=/?pres=1&frameId=3458764568634656708&embedId=241873650669" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
+        <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNbm96Ts=/?pres=1&frameId=3458764568634656708&embedId=241873650669" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+        </center>
 !!!abstract "Feedback" 
     #IN PROGRESS
 

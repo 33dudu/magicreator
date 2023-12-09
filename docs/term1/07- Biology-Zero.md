@@ -29,10 +29,12 @@ hide:
     D --> B;
     B ---->|No| E[Yay!];
     ```
-     > # I am still working on move the notes from Miro Board to the website. If you cannot wait, check the Miro Board below = = 
-
+    <center>
+    ## **:robot:I am still working on to move the notes from Miro Board to the website.:heart:**
+    ## **:heart:If you cannot wait, check the Miro Board below = =	:robot:**
 
     <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNRgnemo=/?pres=1&frameId=3458764569131774380&embedId=294311205599" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+    </center>
 
 !!! bug "Videos"
      <center>#Here we go ~z , z~

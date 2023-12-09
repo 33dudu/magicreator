@@ -30,23 +30,15 @@ hide:
 
     </center>
 
-!!! abstract "Pictures"
-    example for diagrams
-    ``` mermaid
-    graph LR
-    A[Start] --> B{Error?};
-    B -->|Yes| C[Hmm...];
-    C --> D[Debug];
-    D --> B;
-    B ---->|No| E[Yay!];
-    ```
+!!! bug "Video"
+    <center>
+    # **:love_letter:Enjoy the video below:love_letter:**
 
+    **Here we go ~z , z~**
 
+    **3.2.1...**
 
-!!! bug "Videos"
-     <center>#Here we go ~z , z~
-    
-    #3.2.1...
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/btM-PbDBH0E?si=h7a4NI3b5uR1zLEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/btM-PbDBH0E?si=h7a4NI3b5uR1zLEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+    </center>
 
