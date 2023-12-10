@@ -11,7 +11,7 @@ repo_url: 'https://github.com/33dudu/magicreator'
 nav:
   - ENTRANCE: 
       - Entrance: index.md 
-      - Catalan modernism: cat.md
+      - Catalan Modernism: cat.md
   - KNOCK,KNOCK: about/me.md
   - REFLECTIONS :
       - Term 1:
