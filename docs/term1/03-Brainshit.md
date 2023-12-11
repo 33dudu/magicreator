@@ -66,23 +66,5 @@ hide:
 
 
 
-!!!info "Design Dialogues"
-    ![](../images/designdia/floorplan01.jpg)
-
-    !!! note "Awake:"
-
-        - Select the pieces that communicate your work during the semster
-
-        - See how can be display pieces in connection to the others
-
-        - ==Uplade my design space. Print an A2==
-
-        - Communication the result. 
-
-        > A space to have communication
-
-        > Beware of information saturation
-
-        > Enable feedback collection
 
     
