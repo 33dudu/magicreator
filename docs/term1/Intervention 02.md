@@ -163,8 +163,14 @@ hide:
         ![](../images/hellraiser05.webp){: style="height:300px;width:420px"}
         ![](../images/catus.png){: style="height:300px;width400px"}
 
-!!! tip "<font color="white">Final Video"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/8jj0FoZHYX0?si=oKZAbOpZxRJyl2t5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+!!!example "Intervention"
+    !!!info "Ideas" 
+    <center>
+    ## **:robot:Notes moving to the website! For now, peek at the Miro Board below.:robot:**
+    <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNKKe2dY=/?moveToViewport=2144,282,3164,1603&embedId=384035854075" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+    !!! tip "<font color="white">Final Video"
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/8jj0FoZHYX0?si=oKZAbOpZxRJyl2t5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
