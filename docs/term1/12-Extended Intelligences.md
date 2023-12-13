@@ -2,16 +2,6 @@
 hide:
     - toc
 ---
-
-!!!Warning "[0] _ {-}"
-    <center>
-    <font color="white">     
-    
-    #IN PROGRESS
-
-    </font> 
-    </center>
-
 !!! info "Extended Intelligences"
     ==FACULTY==: Ramón Sangüesa/ Lucas Lorenzo Peña/ Pau Artigas
     
@@ -23,7 +13,7 @@ hide:
 !!! abstract "11/29/2023"
 
     !!! info "Surroundings"
-        # It was a long-long day.
+        ## It was a long-long day.
 
         ```mermaid
         graph LR
@@ -78,14 +68,15 @@ hide:
             >* what if we collected all the data of Guadi's art work then move it to AI to help us do the best calculating and fair desicions.
 
             https://www.instagram.com/gaudism.ai/?img_index=1
-            
-            ![](../images/guadism01.png){: style="height:800px;width:420px"}
+            <center>
+            ![](../images/guadism01.png){: style="height:400px;width:260px"}
 
-            ![](../images/gaudism01.png){: style="height:425px;width:330px"}
-            ![](../images/gaudism02.png){: style="height:425px;width:330px"}
+            ![](../images/gaudism01.png){: style="height:300px;width:260px"}
+            ![](../images/gaudism02.png){: style="height:300px;width:260px"}
 
-            ![](../images/gaudism03.jpeg){: style="height:425px;width:330px"}
-            ![](../images/gaudism04.png){: style="height:425px;width:330px"}
+            ![](../images/gaudism03.jpeg){: style="height:300px;width:260px"}
+            ![](../images/gaudism04.png){: style="height:300px;width:260px"}
+            </center>
 
 
         !!!info "References"
@@ -114,11 +105,12 @@ hide:
         >## PNAS- Xenobot
 
         ==Xenobots==, named after the African clawed frog (Xenopus laevis), are synthetic lifeforms that are designed by computers to perform some desired function and built by combining together different biological tissues. Whether xenobots are robots, organisms, or something else entirely remains a subject of debate among scientists.
-
+        <center>
         ![](../images//pnas01.jpg){: style="height:300px;width:620px"}
         ![](../images//pnas02.jpg){: style="height:300px;width:320px"}
         ![](../images//pnas03.jpg){: style="height:300px;width:420px"}
         ![](../images//pnas04.jpg){: style="height:300px;width:320px"}
+        </center>
 
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/aBYtBXaxsOw?si=ZfeqWcO5EpYrvLvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -140,7 +132,7 @@ hide:
 
 
     !!! question "Who are we helping?"
-        # The Children
+        ## The Children
 
         > Megan
         > <center> ![](../images/meganmovie.jpg){: style="height:425px;width:300px"}
@@ -208,7 +200,7 @@ hide:
 
         >Magritte's work often explored the relationship between words and images, and "The Treachery of Images" is a prime example of his fascination with the nature of perception and language in art. The painting invites viewers to question their assumptions about representation and prompts philosophical reflections on the nature of reality in art.
 
-    !!! tip "For further FUTURE"
+    !!! example "For further FUTURE"
     1. Social and Historical Background:
 
         Examine the societal, political, and cultural environment of specific periods, understanding the social upheavals and intellectual trends that often influence the development of art.
@@ -232,48 +224,103 @@ hide:
     !!!info "References"
         https://towardsdatascience.com/the-non-treachery-of-dataset-df1f6cbe577e
 
+!!!success "BINGO"
+    !!! quote
+        <center>
+        ## **From Taco 2 CoCo 2 Yolo - Albert**
+        
+        ## **If for any reason the connection is broken. Just call me again- Colab**
 
-what kind of data (images, text, world)
+        ![](../images/bingo/cover.jpg){: style="height:300px;width:300px"}
+        </center>
 
-what task you want to
-
-different specific models of the same type of network
-
-its internal functioning 
-
-
-deep neural network
-
-![deepnetwork](https://hackmd.io/_uploads/HkhsDE8BT.jpg)
-
-
-ex:
-images (all the images should be in the files)
+        !!! bug "BINGO"
+        Here is the process of how the AI would work inside an app called Bingo, made to help the people to throw out the trash in the correct recycled bin.
+        <center>
+        ![](../images/bingo/bingoapp.png){: style="height:500px;width:500px"}
+        </center>
 
 
-https://github.com/simonw/laion-aesthetic-datasette
+    !!! info "Previous info"
+        To know"BINGO" previous info :https://33dudu.github.io/magicreator/term1/Intervention%2001/
 
-!!! quote
-    From Taco 2 CoCo 2 Yolo - Albert
+    !!!question "What?"
+        - What kind of data (images, text, world)
+        - What task you want to
+        - Different specific models of the same type of network
+        - its internal functioning 
+        - deep neural network
+
+        https://github.com/simonw/laion-aesthetic-datasette
+
+        - [ ] Dataset for trash identification/ Taco,
+        - [ ] Train and model for Dataset for trash/ COCO/YOLO/ Colab
+        - [ ] Obj. classification data set 
+        - [ ] Neural Network
+
+    !!! abstract "Catalog of Datasets:"
+        **Floder:**
+
+        - [ ] Cigarratte 
+
+        - [ ] Drink Can
+
+        - [ ] Foam Cup
+
+        - [ ] Negative=none of above
+
+    !!! info "Reflection"
     
-    If for any reason the connection is broken. Just call me again- Colab
+        ## Introduction:
 
-- [ ] Dataset for trash identification/ Taco,
-- [ ] Train and model for Dataset for trash/ COCO/YOLO/ Colab
-- [ ] Obj. classification data set 
-- [ ] Neural Network
+        In an increasingly environmentally-conscious world, efficient waste management has become a global priority. This document introduces an innovative solution: an artificial intelligence (AI) specialized in trash tracking. This AI not only identifies objects as garbage but also provides valuable information to enhance waste management. Throughout this document, we will explore the fundamentals of this technology, its advanced capabilities, and the positive impact it can have on environmental sustainability and waste management efficiency.
 
-What catalog do we what to do for the Dataset for 2023/12/05
-**Floder:**
-* Cigarratte 
-* Drink Can
-* Foam Cup
-* Negative=none of above
+        ## Creation: 
 
-**For Future**
-* Invite Generation Identify train model
+        Data set: For selecting the information library, initially, our focus was on searching for specific datasets to recognize beverage cans and cigarettes. Even during the process, we proposed creating a small dataset with images to label the brands. Due to time constraints, we opted for a library that specializes in trash recognition called TACO.
 
-AI --> Detect A Trash --> Trace the Information of the trash --> -Age-Material-Brand-
+        Neural networking: We came across YOLO, a neural network for image detection and recognition that is also compatible with the chosen dataset.
+
+
+
+        ## Coding: 
+
+        Since the dataset from TACO uses COCO format, we first need to convert it to the files needed by YOLO. The requirements to train YOLO with our custom dataset are as follows:
+        
+        > A: Splitting the dataset to a folder containing an “images” folder and a “labels” folder for training, another containing  an “images” folder and a “labels” folder for validation and an optional folder containing an “images” folder and a “labels” folder for testing
+
+        > B: A .yaml file that contains the list of classifications and paths to the mentioned folders. See appendix.
+
+        **Training: the following command trains the model**
+        > !yolo task=detect mode=train model=yolov8n.pt data=/content/trash_data/trash_data.yaml epochs=25 imgsz=640
+
+        ## Parameters:
+        1. data = path to the .yaml file
+        2. epochs = number of iterations. More epochs means longer training.
+        3. imgsz = image size
+
+        > This outputs 2 new models: best.pt and last.pt
+
+        **Detecting: we can now use the following  command to detect objects in an image we give it**
+
+        > !yolo task=detect mode=predict model="/content/train/weights/best.pt" source="/content/20231205_004350.jpg
+
+        Sample output:
+        
+        ![](../images/bingo/taco01.png){: style="height:500px;width:500px"}
+
+
+
+        ## Conclusions:
+
+        1- From the dataset that recognizes objects as trash, we question what criteria define the initiation of an object to be categorized as garbage.
+
+        2 - To improve the precision of the model, the neural network should be trained with more epochs (time).
+        
+        3 - On surveillance and accountability: We can combine it with a text or label detection in order to trace the origin of the product and the companies responsible for the waste. 
+
+    !!!info "References"
+        YOLOv8 https://github.com/ultralytics/ultralytics  
 
 
 

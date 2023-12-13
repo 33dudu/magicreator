@@ -9,18 +9,15 @@ hide:
         <center>![](images/Casa%20de%20Vicens/18.png){: style="height:300px;width:530px"}</center>
 
         <center>
-        !!! info "**:footprints:Gente:footprints:**"
+        !!! info ""
+            **:footprints:Gente:footprints:**: DUDU/ Yaadi
 
-            DUDU/ Yaadi
-        !!! info "**:date:CALENDAR:date:**"
-         
-            2023/12/09
-        !!! info "**:camera:Medium:camera:**"
-          
-            Sony APS-C
-        !!! info "**:world_map:Location:world_map:**"
-        
-            41°24′13″N 2°09′03″E
+            **:date:CALENDAR:date:**: 2023/12/09
+
+            **:camera:Medium:camera:**": Sony APS-C
+            
+            **:world_map:Location:world_map:**: 41°24′13″N 2°09′03″E
+
         !!! info "**:love_letter:Short Info:love_letter:**" 
         </center>
         > Casa Vicens, located in the heart of Barcelona, is a stunning architectural gem that seamlessly blends art and nature. Designed by the legendary architect Antoni Gaudí, this house is a masterpiece that marks the beginning of his brilliant career.
