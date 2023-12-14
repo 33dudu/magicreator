@@ -16,6 +16,8 @@ hide:
     <center>
     ## **:dizzy: NOW, it's our-time to SHINE:dizzy:**
 
+    ![](../images/designdia/poster42x59A2.jpg){: style="height:530px;width:430px"}
+
 !!! question "GOAL"
     ==Dialogue is a written or spoken conversational exchange between two or more people, and a literary and theatrical form that depicts such an exchange.==
     ==DEBATE==
