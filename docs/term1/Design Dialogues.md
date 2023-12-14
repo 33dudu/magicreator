@@ -87,7 +87,37 @@ hide:
 
     !!! info ""
         !!! example ""
-            7 sins
+            ## 7 sins ==links== to 7 types of waste
+
+            1. Pride (傲慢) 
+                - Excessive Packaging
+                - Fast Fasion
+
+            2. Envy (嫉妒)
+                - Abandoned Technological devices
+                - Abandoned DIY projects
+
+            3. Wrath (暴怒)
+                - Graffiiti/street stickers
+                - Broken Glass
+
+            4. Sloth (懒惰)
+                - Smoke butt
+                - Relate items
+
+            5. Greed (贪婪)
+                - Mula
+                - Recipit
+
+            6. Lust (淫欲)
+                - Sexual Magazines
+                - Love letter
+
+            7. Gluttony (贪食)
+                - Food Waste
+                - Waste Chopsticks/ Straw
+
+
 
         !!! example ""
             Experiment
@@ -97,6 +127,12 @@ hide:
 
         !!! example ""
             Art therapy
+
+        !!! danger "Speakeasy"
+            >Find the secrete spot and enjoy the space in there
+
+            - Cover with fabric
+            - Inside is the 80s TV & beanbag & Light 
 
 
 
