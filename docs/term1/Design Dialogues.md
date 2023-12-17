@@ -15,12 +15,28 @@ hide:
 !!! quote
     <center>
     ## **:dizzy: NOW, it's our-time to SHINE:dizzy:**
-
-    ![](../images/designdia/poster42x59A2.jpg){: style="height:530px;width:430px"}
+    
+    ![](../images/designdia/print01front.png){: style="height:530px;width:380px"}        ![](../images/designdia/poster42x59A2.jpg){: style="height:530px;width:430px"}
 
 !!! question "GOAL"
     ==Dialogue is a written or spoken conversational exchange between two or more people, and a literary and theatrical form that depicts such an exchange.==
     ==DEBATE==
+
+    !!! note "Awake:"
+
+        - Select the pieces that communicate your work during the semster
+
+        - See how can be display pieces in connection to the others
+
+        - ==Uplade my design space. Print an A2==
+
+        - Communication the result. 
+
+        > A space to have communication
+
+        > Beware of information saturation
+
+        > Enable feedback collection
 
     !!!failure "1.0 version" 
         >Declaration: 
@@ -41,7 +57,7 @@ hide:
         - Performance on your self
         - Designing with decicions 
     
-    !!!
+
 
 !!!info "Design Dialogues Plan"
     > More information about the space: https://theflexroom.spaces.nexudus.com/files/Itnig%20Coffice%20events%20SP.pdf
@@ -52,21 +68,6 @@ hide:
     ![](../images/designdia/floorplan01.jpg)
     >:heart: Floorplan will made by me, Flora & 4ever for 12/19/2023 :heart: : 
 
-    !!! note "Awake:"
-
-        - Select the pieces that communicate your work during the semster
-
-        - See how can be display pieces in connection to the others
-
-        - ==Uplade my design space. Print an A2==
-
-        - Communication the result. 
-
-        > A space to have communication
-
-        > Beware of information saturation
-
-        > Enable feedback collection
 
 
 !!!example "Inspirations"
@@ -77,49 +78,111 @@ hide:
         Street Art:
         > more information :https://33dudu.github.io/magicreator/
 
+!!!warning "Tech"
+    <center>
+    ## **:space_invader:Past, Present, Future:space_invader:**
+    !!!info ""
+        ![](../images/designdia/tv01.png){: style="height:400px;width:260px"}        ![](../images/designdia/tv02.png){: style="height:400px;width:550px"}      
+
+        :heart:Learning the 80s TV :heart:
+
+        **Name:**: 7.0" BLACK/WHITE TELEVISION 
+
+        **SYSTEM:** CCIR B/G SYSTEM
+
+        **Serial number:** J1 013493
+
+        **Brand:** SUPERTECH
+
+        **Model:** BTV-707
+
+        **Weight:** 2.532 Kg
+
+        **Colour:** BLACK/GREY
+
+        **Made in:** GERMANY
+
+
 !!!danger "SHOW-OFF"
-    !!! info "Front/Back"
+
+    !!! example ""
         <center>
-        ![](../images/designdia/print01front.png){: style="height:330px;width:200px"}              ![](../images/designdia/print01back.png){: style="height:330px;width:200px"}   
-        </center>   
+        ## **:seven:SINS :link: :seven: WASTES**
 
-        > GenteCH Art Movement: more information: https://33dudu.github.io/magicreator/project/gente/
+        ![](../images/designdia/g02.png){: style="height:300px;width:450px"}
 
-        > gente graphic inspired by BINGO project, more information :https://33dudu.github.io/magicreator/term1/Intervention%2001/
+        ![](../images/designdia/g03.png){: style="height:300px;width:450px"}
 
-    !!! info ""
-        !!! example ""
-            ## 7 sins ==links== to 7 types of waste
+        !!!info "1"
+            ![](../images/designdia/pride02.png){: style="height:300px;width:450px"}
+                
+            **Pride (傲慢)**
+            > Excessive belief in one's abilities or status, often leading to arrogance and a disregard for others.
 
-            1. Pride (傲慢) 
-                - Excessive Packaging
-                - Fast Fasion
+            - Excessive Packaging
 
-            2. Envy (嫉妒)
-                - Abandoned Technological devices
-                - Abandoned DIY projects
+            - Fast Fasion            
 
-            3. Wrath (暴怒)
-                - Graffiiti/street stickers
-                - Broken Glass
+        !!!info "2"
+           ![](../images/designdia/envy02.png){: style="height:300px;width:450px"}
 
-            4. Sloth (懒惰)
-                - Smoke butt
-                - Relate items
+           **Envy (嫉妒)**
+           > Feeling discontent or resentful towards others' success, possessions, or advantages.
 
-            5. Greed (贪婪)
-                - Mula
-                - Recipit
+           - Abandoned Technological devices
+           - Abandoned DIY projects   
 
-            6. Lust (淫欲)
-                - Sexual Magazines
-                - Love letter
+        !!!info "3"
+            ![](../images/designdia/wrath02.png){: style="height:300px;width:450px"}
 
-            7. Gluttony (贪食)
-                - Food Waste
-                - Waste Chopsticks/ Straw
+            **Wrath (暴怒)**
+            > Intense and uncontrolled anger, often leading to harmful actions or words.
 
+            - Graffiiti/street stickers
+            - Broken Glass  
 
+        !!!info "4"
+            ![](../images/designdia/sloth02.png){: style="height:300px;width:450px"}
+
+            **Sloth (懒惰)**
+            > Avoiding responsibilities, being lazy, or lacking the motivation to do what needs to be done.
+
+            - Smoke butt
+            - Relate items
+
+        !!!info "5"
+            ![](../images/designdia/greed02.png){: style="height:300px;width:450px"}
+
+            **Greed (贪婪)**
+            > Having an insatiable desire for more possessions, wealth, or power, without contentment.
+
+            - Mula
+            - Recipit
+  
+        !!!info "6"
+            ![](../images/designdia/lust02.png){: style="height:300px;width:450px"}
+                
+            **Lust (淫欲)**
+            > Excessive desire, especially inappropriately strong desires, not just limited to sexual desire.
+
+            - Sexual Magazines
+            - Love letter
+
+        !!!info "7"
+            ![](../images/designdia/gola02.png){: style="height:300px;width:450px"}
+                
+            **Gluttony (贪食)**
+            > Consuming more food, drink, or resources than necessary, often to the point of waste.
+
+            - Food Waste
+            - Waste Chopsticks/ Straw
+
+        !!!info "8"
+            ![](../images/designdia/a02.png){: style="height:300px;width:450px"}
+                
+            **(魔鬼) (天使)**
+
+            - ？？？
 
         !!! example ""
             Experiment
