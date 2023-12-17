@@ -33,7 +33,11 @@ hide:
 
     !!! question "Who are we helping?"
         !!! failure "An AI of a remarkable Artist that already passed away ... : ( ..."
-        - During the class time, I had an idea, but this idea was in my heart for a long-long-long-time. Which is to deeply study or deeply collective informations about ==Modernisme== (Catalan pronunciation: [muðərˈnizmə], Catalan for "modernism"), also known as ==Catalan modernism== and ==Catalan art nouveau== 
+            
+            - During the class time, I had an idea, but this idea was in my heart for a long-long-long-time. Which is to deeply study or deeply collective informations about ==Modernisme== (Catalan pronunciation: [muðərˈnizmə], Catalan for "modernism"), also known as ==Catalan modernism== and ==Catalan art nouveau== 
+
+            - "The reason I wrote 'failure' is that because no AI machine can replace a legendary artist. Creativity is the main differences between gente and machines." (12/01/2023)      
+
 
         >What is Catalan modernism?
 
@@ -61,7 +65,7 @@ hide:
             ALbert answered: "I used to like it, but nowdays, La Sagrada Familia being changed =A Lot="
 
 
-        >I started to questioning myself, why people starts to hate it? Is that because Guadi? or people who building/designing/constructing it  NOWdays? People keep saying that they are pasing Guadi's art pieces to complish it. But is that a ==real== opinion done by Guadi? I mean, he is in the heaven. Or maybe he had a ==code== that later people can/needs to be ==followed==? Also, for designing a architecture is not only designing ==1/one/uno== building, it should including the surroundings, to conbine together and make a best decision. 
+        >I started to questioning myself, why people starts to hate it? Is that because Guadi? or people who building/designing/constructing it  NOWdays? People keep saying that they are pasing Guadi's art pieces to complish it. But is that a ==real== opinion done by Guadi? I mean, he is in the heaven. Or maybe he had a ==code== that later people can/needs to be ==followed==? Also, for designing a architecture is not only designing ==1/one/uno== building, it should including the surroundings, to combining together and make a best decision. 
 
 
         !!!example
@@ -232,10 +236,12 @@ hide:
         ## **If for any reason the connection is broken. Just call me again- Colab**
 
         ![](../images/bingo/cover.jpg){: style="height:300px;width:300px"}
+
+        > AI image created by Adobe Firefly
         </center>
 
-        !!! bug "BINGO"
-        Here is the process of how the AI would work inside an app called Bingo, made to help the people to throw out the trash in the correct recycled bin.
+    !!! bug "BINGO"
+        > Here is the process of how the AI would work inside an app called Bingo, made to help the people to throw out the trash in the correct recycled bin.
         <center>
         ![](../images/bingo/bingoapp.png){: style="height:500px;width:500px"}
         </center>
@@ -313,17 +319,22 @@ hide:
 
         ## Conclusions:
 
-        1- From the dataset that recognizes objects as trash, we question what criteria define the initiation of an object to be categorized as garbage.
+        1 - From the dataset that recognizes objects as trash, we question what criteria define the initiation of an object to be categorized as garbage.
 
         2 - To improve the precision of the model, the neural network should be trained with more epochs (time).
         
         3 - On surveillance and accountability: We can combine it with a text or label detection in order to trace the origin of the product and the companies responsible for the waste. 
 
     !!!info "References"
-        YOLOv8 https://github.com/ultralytics/ultralytics  
+        YOLOv8 https://github.com/ultralytics/ultralytics 
+        
+        (chatgpt-cost): https://www.washingtonpost.com/technology/2023/06/05/chatgpt-hidden-cost-gpu-compute/
 
+        (:robot:):https://12ft.io/
 
+        (transition from Automatization to Autonomization)https://www.youtube.com/watch?v=rL3D0cAu02U
 
+        (Voice In My Head): https://lauren-mccarthy.com/Voice-In-My-Head
 
 
 

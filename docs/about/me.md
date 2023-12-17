@@ -61,3 +61,7 @@ hide:
             Do you want to check out the young "mi"  :blush:
 
             GO HERE: https://pelican-bellflower-gpl6.squarespace.com/
+
+        !!! info "Contact me"
+            
+            ![](../images/instagram.svg){: style="height:20px;width:20px"} : https://www.instagram.com/d.q_y/?hl=en/
