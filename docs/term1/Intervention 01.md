@@ -64,10 +64,10 @@ hide:
     !!!abstract "Test01"
         **MAIN USER**
         
-        SPEOPLE WHO LOVE RECYCLING AND SUSTAINABLE BUT DIDN'T DO IT WHAT REALLY REALLY HELPING THE ENVIRONMENT or A PERFECT WAY.
+        PEOPLE WHO LOVE RECYCLING AND SUSTAINABLE BUT DIDN'T DO IT WHAT REALLY REALLY HELPING THE ENVIRONMENT or A PERFECT WAY.
 
         !!!info ""
-            **SOFTWARE ATTRACTION**
+            ## **:robot:SOFTWARE ATTRACTION:robot:**
             
             !!!danger "TRICK"
                 PSYCHOLOGY: PEOPLE LOVE THINGS THAT HAS VALUE TO THEM
@@ -76,7 +76,7 @@ hide:
                 EX: MONEY? NUMBER OF POINTS?FREE STUFFS?
 
         !!!info ""
-            **WIN-WIN/DOUBLE-WIN**
+            ## **:revolving_hearts:WIN-WIN/DOUBLE-WIN:revolving_hearts:**
             
             !!!danger "TRICK"
                 HOW CAN WE ALSO SATISFY THE DESIER OF GARBAGE COMPANY?
@@ -94,7 +94,7 @@ hide:
 
     > :love_letter:By minnie:love_letter: 
 
-    ![](../images/bingo/bot-fail.png){: style="height:400px;width:300px"}
+    ![](../images/bingo/bot-fail.png){: style="height:400px;width:280px"}
 
 !!! bug "Videos"
     
