@@ -50,22 +50,21 @@ hide:
 
 !!! info ""
     <center>
-    !!!info "Team"
-    ![](../images/bingo/bingogroup.png){: style="height:300px;width:300px"}
+    !!!tip "<font color="white">Team"
+        ![](../images/bingo/bingogroup.png){: style="height:300px;width:300px"}
 
-    !!! info "LOGO"
-    # **:slot_machine: ==BIN== ==GO== you got it right :slot_machine:**
+    !!! tip "<font color="white">LOGO"
+        # **:slot_machine: <font color="white">==BIN== ==GO== you got it right :slot_machine:**
 
-
-    ![](../images/bingo/logo01.png){: style="height:300px;width:400px"}
-    ![](../images/bingo/logo02.png){: style="height:300px;width:400px"}
+        ![](../images/bingo/logo01.png){: style="height:300px;width:400px"}
+        ![](../images/bingo/logo02.png){: style="height:300px;width:400px"}
 
     </center>
 
     !!!abstract "Test01"
         **MAIN USER**
         
-        SPEOPLE WHO LOVE RECYCLING AND SUSTAINABLE BUT DIDN'T DO IT WHAT REALLY REALLY HELPING THE ENVIRONMENT or A PERFECT WAYMAIN USER/ PEOPLE WHO LOVE RECYCLING AND SUSTAINABLE BUT DIDN'T DO IT WHAT REALLY REALLY HELPING THE ENVIRONMENT or A PERFECT WAY
+        SPEOPLE WHO LOVE RECYCLING AND SUSTAINABLE BUT DIDN'T DO IT WHAT REALLY REALLY HELPING THE ENVIRONMENT or A PERFECT WAY.
 
         !!!info ""
             **SOFTWARE ATTRACTION**

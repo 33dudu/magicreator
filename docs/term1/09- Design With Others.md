@@ -64,7 +64,7 @@ hide:
         >The places where angels reside are always clean and refreshing, as if capable of purifying the soul and bringing a smile to your face. Even if there might be some slight untidiness, it remains pleasing to the eye. However, for angels, they always trust humans unconditionally, so please take good care of your belongings.
 
 !!!note "Cool-Community"
-    > 
+    > L’Ateneu de Fabricació de Gràcia :https://ajuntament.barcelona.cat/ateneusdefabricacio/ca/ateneu-de-fabricacio-de-gracia/
 
 
 
