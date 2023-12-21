@@ -2,24 +2,25 @@
 hide:
     - toc
 ---
-!!! info "Design Dialogues"
-    ==FACULTY==: Guillem Camprodon/ Tomas Diez/ Laura Benitez/Jana Tothill Calvo/ Roger Guilemany/ Santiago Fuentemilla Garriga/ Oscar Gonzalez/ Josep Marti Elias/ Petra Garajová/ Adai Surinach/ Mikel Llobera
+!!! info "PAST, PRESENT, FUTURE"
+    ==FACULTY==: Guillem Camprodon/ Tomas Diez/ Laura Benitez/Jana Tothill Calvo/ Roger Guilemany/ Santiago Fuentemilla Garriga/ Josep Marti Elias/ Petra Garajová/ Adai Surinach
     
     ==CALENDAR==: 11/12/2023 - 19/12/2023
 
     ==TRACK==: ""SHOWTIME""
 
-    ==KEYWORD==: "7 SINS/ ART THERAPY"
+    ==KEYWORD==: "7 SINS/ ART THERAPY/ WASTES/ EDUCATION"
 
 
 !!! quote
     <center>
+
     ## **:dizzy: NOW, it's our-time to SHINE:dizzy:**
     
-    ![](../images/designdia/print01front.png){: style="height:530px;width:380px"}        ![](../images/designdia/poster42x59A2.jpg){: style="height:530px;width:430px"}
+    ![](../images/designdia/print01front.png){: style="height:530px;width:380px"}        ![](../images/designdia/poster42x59A2.jpg){: style="height:530px;width:380px"}
 
 !!! question "GOAL"
-    ==Dialogue is a written or spoken conversational exchange between two or more people, and a literary and theatrical form that depicts such an exchange.==
+    ==Dialogue is a written or spoken conversational exchange between two or more people. It is a literary and theatrical form that depicts such an exchange.==
     ==DEBATE==
 
     !!! note "Awake:"
@@ -27,8 +28,6 @@ hide:
         - Select the pieces that communicate your work during the semster
 
         - See how can be display pieces in connection to the others
-
-        - ==Uplade my design space. Print an A2==
 
         - Communication the result. 
 
@@ -56,8 +55,34 @@ hide:
         - ## ==DO NOT== PUT YOURSELF IN THE ==SAFE ZONE==. Go to THE ==UNKNOWN ZONE==
         - Performance on your self
         - Designing with decicions 
-    
 
+    !!!success "2.0 version"
+    
+        >Declaration: 
+        # **:hole: Past/Present/Future :hole:**
+
+
+        >Feedback: **:heart:From MANY AMAZING PEOPLE BIG LOVE :heart:** 
+        
+        <center>
+
+        Comments box for **:hole: Past/Present/Future :hole:**
+
+        ![](../images/designdia/commentsboxs.png){: style="height:300px;width:480px"}
+        > The comments paper was a side waste collected from a print shop. The comment box was a waste water bottle container.
+
+        Comments from ==PAST==
+
+        ![](../images/designdia/past.png){: style="height:300px;width:480px"}
+
+        Comments from ==PRESENT==
+
+        ![](../images/designdia/present.png){: style="height:300px;width:480px"}
+
+
+        Comments from ==FUTURE==
+
+        ![](../images/designdia/future.png){: style="height:500px;width:300px"}
 
 !!!info "Design Dialogues Plan"
     > More information about the space: https://theflexroom.spaces.nexudus.com/files/Itnig%20Coffice%20events%20SP.pdf
@@ -101,6 +126,10 @@ hide:
         **Colour:** BLACK/GREY
 
         **Made in:** GERMANY
+
+        **Funiculus umbilicalis:**
+
+        ![](../images/designdia/funiculus%20umbilicalis.png){: style="height:300px;width:460px"}
 
 
 !!!danger "SHOW-OFF"
