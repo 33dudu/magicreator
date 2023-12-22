@@ -16,19 +16,25 @@ hide:
     <center>
 
     ## **:dizzy: NOW, it's our-time to SHINE:dizzy:**
-    
+    ![](../images/designdia/table01.png){: style="height:400px;width:620px"} 
+
+!!! info "Poster"
+    <center>
     ![](../images/designdia/print01front.png){: style="height:530px;width:380px"}        ![](../images/designdia/poster42x59A2.jpg){: style="height:530px;width:380px"}
 
-    <center>
     !!!info ""
         ## Comments box for **:hole: Past/Present/Future :hole:**
+        <center>
 
         ![](../images/designdia/commentsboxs.png){: style="height:500px;width:780px"}
+        
+        </center>
+    
 
-
-        > The comments paper was a side waste collected from a print shop. The comment box was a waste water bottle container.
-
-        >I got a lots of comments/feedback/debates: **:heart:From MANY AMAZING PEOPLE BIG LOVE :heart:** 
+        * **The comments paper was a side waste collected from a print shop** ( IMPRESIÓN, DISEÑO Y COLOR,  Carrer de Fluvià, 217, BAJOS, Sant Martí, 08020 Barcelona )
+        
+        * **The comment container was a waste water bottle.**
+        >I got a lots of comments/feedback/debates: **:heart:From MANY AMAZING PEOPLE BIG LOVE BIG THANKS :heart:** 
 
 !!! question "GOAL"
     ==Dialogue is a written or spoken conversational exchange between two or more people. It is a literary and theatrical form that depicts such an exchange.==
@@ -50,21 +56,40 @@ hide:
 
 
     !!!success "2.0 version"
-    
+        <center>
         >Declaration: 
         # **:hole: Past/Present/Future :hole:**
-        <center>
 
         !!!info ""
+            <center>
             !!!warning ":black_heart:PAST:black_heart:"
+                ![](../images/livingwith/01.jpg){: style="height:350px;width:600px"}
+
+                > Link to the past: https://33dudu.github.io/magicreator/term1/06-Living%20With%20Your%20Own%20Ideas/
+
+                The main idea was to use the past/present/future as a strategy for this design dialogue. Let's start with the past—a seminar during school focused on 'Living with Your Own Ideas.' I questioned myself about the biggest waste in my personal lifetime, which turned out to be coffee powder, eggshells, and paper. Combining them, I created a new type of recycled paper to draw on. However, my ambition led me to use this recycled paper to make waterproof art, envisioning dolphins in the ocean appreciating my work(THE FURTURE DREAM).
+
+                During class time in the MDEF classroom, I discovered a new waste from machine—discarded disks. I used these disks as molds or as a "brain" for my projects. Imagining the future, I envisioned placing these waste art pieces in my home. Proudly introducing them to my friends, I would say, 'Look, guys, these art pieces are made from trash.'"
 
             !!!info ""
-                > Link to the past: https://33dudu.github.io/magicreator/term1/06-Living%20With%20Your%20Own%20Ideas/
+                
+
 
                 > Comments from PAST
 
                 ![](../images/designdia/past.png){: style="height:300px;width:480px"}
 
+                > Comments Research:  
+
+                ## 1. Tracey Emin: 
+                
+                https://www.whitecube.com/artists/tracey-emin
+                    
+                https://www.artnet.com/artists/tracey-emin/
+
+                ## 2. Celt + Gaelic Culture/ Rome Stone:
+
+                ## 3. Material Culture Evolotion:
 
 
 
@@ -72,19 +97,37 @@ hide:
 
 
 
+    !!!info ""
 
-    <center>
-    !!!warning ":purple_heart:PRESENT:purple_heart:"
+        <center>
+        !!!warning ":purple_heart:PRESENT:purple_heart:"
 
-  
-
-        !!! example ""
-            <center>
             ## **:seven:SINS :link: :seven: WASTES**
 
-            ![](../images/designdia/g02.png){: style="height:300px;width:450px"}
+            ![](../images/designdia/present01.png){: style="height:500px;width:300px"}
+            ![](../images/designdia/present02.png){: style="height:500px;width:300px"}
 
-            ![](../images/designdia/g03.png){: style="height:300px;width:450px"}
+            ![](../images/designdia/present03.png){: style="height:500px;width:300px"}
+            ![](../images/designdia/present04.png){: style="height:500px;width:300px"}
+
+
+
+
+            !!! example ":hole:Card-Game:hole:"
+                <center>
+
+                
+                > Pick up a card that speaks to you :smile:
+
+                **Before you pick a card, think and read the pattern carefully. There are 8 cards but 9 choices. One of them has a prize: which is 5 euros for you.**
+
+                ![](../images/designdia/g02.png){: style="height:300px;width:450px"}
+
+            !!! example ":eye:Answer:eye:"
+                <center>
+                > The prize is the Angel (天使). If you can read Chinese, you will got the answer more easily.
+
+                ![](../images/designdia/g03.png){: style="height:300px;width:450px"}
 
             !!!info "1"
                 ![](../images/designdia/pride02.png){: style="height:300px;width:450px"}
@@ -99,11 +142,11 @@ hide:
             !!!info "2"
                 ![](../images/designdia/envy02.png){: style="height:300px;width:450px"}
 
-            **Envy (嫉妒)**
-            > Feeling discontent or resentful towards others' success, possessions, or advantages.
+                **Envy (嫉妒)**
+                > Feeling discontent or resentful towards others' success, possessions, or advantages.
 
-            - Abandoned Technological devices
-            - Abandoned DIY projects   
+                - Abandoned Technological devices
+                - Abandoned DIY projects   
 
             !!!info "3"
                 ![](../images/designdia/wrath02.png){: style="height:300px;width:450px"}
@@ -149,12 +192,14 @@ hide:
                 - Food Waste
                 - Waste Chopsticks/ Straw
 
-            !!!info "8"
+            !!!info "8/9"
                 ![](../images/designdia/a02.png){: style="height:300px;width:450px"}
                         
                 **(魔鬼) (天使)**
 
-                - ？？？
+                > This card is the most exciting one in the entire game. However, holding this card doesn't guarantee success because it has two possibilities. One side is the Devil, and the other side is the Angel. Only when the card of Angel (天使） is facing you, you are the winner. This may be challenging for many people who don't understand Chinese, but it is also the part I find most mysterious. While I've provided translations in English, Spanish, and Catalan for other cards, this particular card is in Chinese only.
+                
+                ![](../images/designdia/angel.png){: style="height:300px;width:500px"}
 
             !!! example ""
                 Experiment
@@ -181,34 +226,38 @@ hide:
 
         ![](../images/designdia/present.png){: style="height:300px;width:480px"}
 
+
+
+
         !!!info ""
             !!!warning ":love_letter:FUTURE:love_letter:"
-            <center>
+                <center>
+                ![](../images/designdia/future01.png)
 
             !!!info ""
                 ![](../images/designdia/tv01.png){: style="height:400px;width:260px"}        ![](../images/designdia/tv02.png){: style="height:400px;width:550px"}      
 
-            :heart:Learning the 80s TV :heart:
+                :heart:Learning the 80s TV :heart:
 
-            **Name:**: 7.0" BLACK/WHITE TELEVISION 
+                **Name:**: 7.0" BLACK/WHITE TELEVISION 
 
-            **SYSTEM:** CCIR B/G SYSTEM
+                **SYSTEM:** CCIR B/G SYSTEM
 
-            **Serial number:** J1 013493
+                **Serial number:** J1 013493
 
-            **Brand:** SUPERTECH
+                **Brand:** SUPERTECH
 
-            **Model:** BTV-707
+                **Model:** BTV-707
 
-            **Weight:** 2.532 Kg
+                **Weight:** 2.532 Kg
 
-            **Colour:** BLACK/GREY
+                **Colour:** BLACK/GREY
 
-            **Made in:** GERMANY
+                **Made in:** GERMANY
 
-            **Funiculus umbilicalis:**
+                **Funiculus umbilicalis:**
 
-            ![](../images/designdia/funiculus%20umbilicalis.png){: style="height:300px;width:460px"}
+                ![](../images/designdia/funiculus%20umbilicalis.png){: style="height:300px;width:460px"}
 
             
             !!! info "Video"
