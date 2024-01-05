@@ -75,11 +75,11 @@ hide:
                 
 
 
-                > Comments from PAST
+                > Comments for THE PAST
 
                 ![](../images/designdia/past.png){: style="height:300px;width:480px"}
 
-                > Comments Research:  
+                > Comments Research(IN PROGRESS):  
 
                 ## 1. Tracey Emin: 
                 
@@ -102,7 +102,7 @@ hide:
         <center>
         !!!warning ":purple_heart:PRESENT:purple_heart:"
 
-            ## **:seven:SINS :link: :seven: WASTES**
+            ## **:seven:SINS :link: LINKS :seven: WASTES**
 
             ![](../images/designdia/present01.png){: style="height:500px;width:300px"}
             ![](../images/designdia/present02.png){: style="height:500px;width:300px"}
@@ -201,20 +201,6 @@ hide:
                 
                 ![](../images/designdia/angel.png){: style="height:300px;width:500px"}
 
-            !!! example ""
-                Experiment
-                -poker table
-                -canvas 
-                -decro
-
-            !!! example ""
-                Art therapy
-
-            !!! danger "Speakeasy"
-                >Find the secrete spot and enjoy the space in there
-
-                - Cover with fabric
-                - Inside is the 80s TV & beanbag & Light 
 
 
 
@@ -222,7 +208,8 @@ hide:
 
 
 
-        > Comments from PRESENT
+
+        > Comments for THE PRESENT
 
         ![](../images/designdia/present.png){: style="height:300px;width:480px"}
 
@@ -232,6 +219,11 @@ hide:
         !!!info ""
             !!!warning ":love_letter:FUTURE:love_letter:"
                 <center>
+
+                In the upcoming phase, I challenged myself to step out of my comfort zone. I want to express my gratitude to Thomas for awakening me. Initially, I was merely attempting to create an internal space for Dialogue Day. However, during my conversation with Thomas, he pointed out a crucial issue. Subsequently, I introspected and identified my weak point, which turned out to be technology.
+
+                In an effort to address this, I explored the MDEF classroom and sought out abandoned machines that resonated with me. Ultimately, I settled on an old 80s TV. My goal was to connect it to my iPhone 14 Plus. After several attempts and searches, I succeeded. Upon inspecting the connectors, it felt surreal to witness the integration of this ancient machinery with the latest technology. **It's a conversation between history and the present, symbolizing a bridge between the past and the future.**
+
                 ![](../images/designdia/future01.png)
 
             !!!info ""
@@ -263,9 +255,9 @@ hide:
             !!! info "Video"
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9UEMxQ6CSA?si=R4gBsE4zbkEQrDnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-            > Comments from FUTURE
+                > Comments for THE FUTURE
 
-            ![](../images/designdia/future.png){: style="height:500px;width:300px"}
+                ![](../images/designdia/future.png){: style="height:500px;width:300px"}
 
 
 
@@ -320,6 +312,21 @@ hide:
         ![](../images/designdia/floorplan01.jpg)
         >:heart: Floorplan will made by me, Flora & 4ever for 12/19/2023 :heart: : 
 
+            
+        !!! example ""
+            Experiment
+            -poker table
+            -canvas 
+            -decro
+
+        !!! example ""
+            Art therapy
+
+        !!! danger "Speakeasy"
+            >Find the secrete spot and enjoy the space in there
+
+            - Cover with fabric
+            - Inside is the 80s TV & beanbag & Light 
 
 !!!info "References"
     https://labs.rs/en/facebook-algorithmic-factory-immaterial-labour-and-data-harvesting/
