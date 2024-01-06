@@ -220,7 +220,7 @@ hide:
             !!!warning ":love_letter:FUTURE:love_letter:"
                 <center>
 
-                In the upcoming phase, I challenged myself to step out of my comfort zone. I want to express my gratitude to Thomas for awakening me. Initially, I was merely attempting to create an internal space for Dialogue Day. However, during my conversation with Thomas, he pointed out a crucial issue. Subsequently, I introspected and identified my weak point, which turned out to be technology.
+                In the upcoming phase, I challenged myself to step out of my comfort zone. I want to express my gratitude to Tomas for awakening me. Initially, I was merely attempting to create an internal space for Dialogue Day. However, during my conversation with Tomas, he pointed out a crucial issue. Subsequently, I introspected and identified my weak point, which turned out to be technology.
 
                 In an effort to address this, I explored the MDEF classroom and sought out abandoned machines that resonated with me. Ultimately, I settled on an old 80s TV. My goal was to connect it to my iPhone 14 Plus. After several attempts and searches, I succeeded. Upon inspecting the connectors, it felt surreal to witness the integration of this ancient machinery with the latest technology. **It's a conversation between history and the present, symbolizing a bridge between the past and the future.**
 
@@ -271,8 +271,8 @@ hide:
 
 
 
-!!!example "Inspirations"
-    !!!example ""
+!!!info ""
+    !!!example "Inspirations"
         Catalan Modernisme:
         > more information :https://33dudu.github.io/magicreator/cat/
 
