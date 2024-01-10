@@ -8,7 +8,7 @@ hide:
     #IN PROGRESS
 
 !!! info "Designing in a State of Climate Emergency"
-    ## :robot:**Due to my personal reason this seminar is Virtual. At this point, I love you [TECH](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript).**:robot:
+    ## :robot:**Due to my personal reason this seminar is all Virtual. At this point, I love you [TECH](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript).**:robot:
 
     **FACULTY**: Andres Colmenares/ Gustavo Nogueira
     
@@ -41,15 +41,26 @@ hide:
     | Catalan| Emergència climàtica|
     |Hindi| जलवायु आपातकालीन (Jalvayu Aapatkaleen)|
     |Dutch| Klimaatnoodtoestand|
-    |Filipino| Klima ng Emergency|       </center>
+    |Romanian | Urgență climatică|
+    |Filipino| Klima ng Emergency|   
+
+    </center>    
+
 
     !!! note ""
+        > A cute excieses we did during the class time :heart:
 
-    > A cute excieses we did during the class time :heart:
+        ![](../images/term2/climate%20emergency/positionality.png)
 
-    ![](../images/term2/climate%20emergency/positionality.png)
-    </center>
 
+
+        My privilege is my Bi-polar mental healthy. It's turning my emotional struggles into a privilege for my art. Initially, I grappled with the challenges of unstable mental health, but delving into the worlds of art history and psychology changed my perspective.
+
+        Studying these subjects allowed me to form a deep connection with myself. Rather than viewing my emotional challenges negatively, I embraced them as allies in my creative process. The profound feelings that once troubled me have now become the driving force behind my artistic expression.
+
+        Through art, I've found a beautiful way to befriend myself. Every stroke on the canvas becomes a release, and the emotional richness infuses my work with authenticity. It's not just about stabilizing my mental well-being; it's about turning vulnerability into strength.
+
+        This fusion of emotional exploration and artistic expression has become a privilege — a source of inspiration that allows me to create art that is not only visually striking but also deeply meaningful. In embracing the tumultuous waves of my emotions, I've discovered the power of turning personal challenges into a canvas of beauty and resilience.
 
 
     !!! success "GOOD_POINTS"
@@ -165,5 +176,11 @@ hide:
         | ~~CORPORATIVOCENE~~|
         | ~~ANTROPOCENE~~ |
 
+        [Braiding Sweetgrass]:(https://www.goodreads.com/en/book/show/17465709)
+
+        The fact is more truth on the land then the page
+
 !!!info "References"
     https://theteknologist.wordpress.com/2020/11/08/what-is-ubuntu-and-why-we-need-it/
+
+
