@@ -10,25 +10,45 @@ hide:
 !!! info "Designing in a State of Climate Emergency"
     ## :robot:**Due to my personal reason this seminar is Virtual. At this point, I love you [TECH](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript).**:robot:
 
-    ==FACULTY==: Andres Colmenares
+    **FACULTY**: Andres Colmenares/ Gustavo Nogueira
     
-    ==CALENDAR==: 09/01/2024 - 12/01/2024
+    **CALENDAR**: 09/01/2024 - 12/01/2024
 
-    ==TRACK==: Application
+    **TRACK**: Reflection
 
 
 !!! quote "Quote"
+    <center>
+
+    ![](../images/term2/climate%20emergency/ubuntu.jpg){: style="height:500px;width:380px"}
     # **[Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)** I am because WE are
 
 
 
 
 !!! note "Date: 2024/01/09"
-    ? How to write Environment Crisis?
+    <center>
+    ## :thinking:How to say **CLIMATE EMERGENCY** in your language?:thinking:
+
+    | Language | WORD |
+    |:-------- |:--------:|
+    | English | Climate emergency|
+    | Spanish     |  Emergencia climática   |
+    | French     |   Urgence climatique   |
+        German|  Klimanotstand |
+    | Italian | Emergenza climatica |
+    | Chinese (Mandarin)| **气候紧急情况** (Qìhòu jǐnjí qíngkuàng)|
+    | Catalan| Emergència climàtica|
+    |Hindi| जलवायु आपातकालीन (Jalvayu Aapatkaleen)|
+    |Dutch| Klimaatnoodtoestand|
+    |Filipino| Klima ng Emergency|       </center>
+
+    !!! note ""
 
     > A cute excieses we did during the class time :heart:
 
     ![](../images/term2/climate%20emergency/positionality.png)
+    </center>
 
 
 
@@ -46,10 +66,9 @@ hide:
         - But we will create together a safe space to reimagine them. 
         - Positionality Statements:
         - Source: Don't Mention the Emergency?(2018)
-        - Designing in a ~~state of climate emergency~~ ==the Polycrisis==
-        - > https://www.vox.com/future-perfect/23920997/polycrisis-climate-pandemic-population-connectivity
+        - Designing in a ~~state of climate emergency~~ [the Polycrisis](https://www.vox.com/future-perfect/23920997/polycrisis-climate-pandemic-population-connectivity)
         - How novel is the Polycrisis
-        - HUman energy consumption
+        - Human energy consumption
         - Human population's total biomass
         - Earth's energy balance
         - Connectivity of human population
@@ -58,6 +77,10 @@ hide:
         - [Solar Centered Designing](https://branch.climateaction.tech/issues/issue-4/solar-centered-designing/)
         - Ignoring a shared sense of time
         - [Silicon Valley is Truning into its own worst fear- BuzzFeedNews](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
+        - Socioethical impact: 
+        - Ecosocial impact:
+        - Humbleness- Humans 
+        - Book: Meeting the Universe Halfway- Dr. Karen Barad
         - Words shape worlds.
         Film: Metropolis(1927)
         !!! abstract "ChatGPT"
@@ -81,13 +104,10 @@ hide:
 
             The film's influence can be seen in later science fiction works, including Ridley Scott's "Blade Runner" and many other dystopian films that explore the consequences of a divided society. "Metropolis" remains a significant part of film history, showcasing the artistic and storytelling possibilities of the medium.
 
-    Socioethical impact: 
 
-    Ecosocial impact:
 
-    !!!info ""
-        :five: things about Critical Data Center studies:
-        > https://commonplace.knowledgefutures.org/pub/jpy7pbq0
+    !!! note ""
+        ##:five: things about [Critical Data Center studies](https://commonplace.knowledgefutures.org/pub/jpy7pbq0)
 
         1. Earths
         2. Water
@@ -99,14 +119,51 @@ hide:
 
         5. Heat
 
-    Humbleness- Humans 
 
-    Book: Meeting the Universe Halfway- Dr. Karen Barad
 
     !!! example ""
-        ##What is your 3 key takeaways?
+        ##:sunglasses:What is your 3 key takeaways?
         1. When we say machines learning, lets say collaborative learning 
 
         2. The end of the capitalism?
         3. Do you know where your shit goes?
 
+        we are no longer people we are user
+
+!!! note "Date: 2024/01/10"
+    <center>
+    # **:hourglass:TIME:hourglass:**
+    ![](../images/term2/climate%20emergency/class01.png){: style="height:300px;width:480px"}
+    ![](../images/term2/climate%20emergency/class02.png){: style="height:300px;width:480px"}
+    ![](../images/term2/climate%20emergency/class04.png){: style="height:300px;width:480px"}
+    ![](../images/term2/climate%20emergency/class05.png){: style="height:300px;width:480px"}
+    ![](../images/term2/climate%20emergency/class03.png){: style="height:300px;width:500px"}</center>
+
+
+    !!! success "GOOD_POINTS"
+        1. RECURRENT :point_right: NON-RECURRENT
+
+        - Time is the measure of change 
+
+        - Calender
+
+        - ZEITGEIST- Spirit of the time
+        - ZEITGEBER- Donor of the time
+
+        - Residual time: codes, languages, and behaviors already misaligned
+        - Dominant time: codes defining the reality around us. 
+        - Emergent time: evidences of new narratives shaping culture.
+        - Spirit of the time: ontological perspectivs interacting.
+
+        - ~~The currency of our time is no longer money~~ but time itself
+         
+        - It was the clock and not the steam engine the defining machine of the modern industrial era"- MUMFORD LEWIS
+
+        - [Histmap](https://www.visualcapitalist.com/histomap/)
+
+        - | **CHTULUCENE** |
+        | ~~CORPORATIVOCENE~~|
+        | ~~ANTROPOCENE~~ |
+
+!!!info "References"
+    https://theteknologist.wordpress.com/2020/11/08/what-is-ubuntu-and-why-we-need-it/
