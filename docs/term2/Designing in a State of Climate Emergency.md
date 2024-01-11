@@ -180,7 +180,116 @@ hide:
 
         The fact is more truth on the land then the page
 
-!!!info "References"
-    https://theteknologist.wordpress.com/2020/11/08/what-is-ubuntu-and-why-we-need-it/
+    !!!info "References"
+        https://theteknologist.wordpress.com/2020/11/08/what-is-ubuntu-and-why-we-need-it/
 
 
+!!! note "Date: 2024/01/11"
+
+    !!!note ""
+
+        :heart: Thank you for ChatMA, my peer~:heart:for sharing me her notes of the first half class
+
+        ## :question: How to separate economic growth from its negative impacts on the environment?
+
+        ## :world_map:The goal is to keep the economy growing while reducing its harmful effects on the planet. Focus on sustainable and equitable development rather than perpetual expansion.
+
+        1. **Design:**
+            - When designing for economic degrowth and decoupling, consider the following key principles**
+
+        2. **Resource Efficiency:**
+            - Optimize resource use to reduce waste and depletion.
+            - Emphasize recycling and circular economy principles.
+
+        3. **Localism:**
+            - Encourage local production and consumption to reduce transportation-related environmental costs.
+            - Support local businesses and communities.
+
+        4. **Social Equity:**
+            - Ensure that economic activities benefit society as a whole and promote social justice.
+            - Address inequalities in access to resources and opportunities.
+
+        5. **Quality of Life:**
+            - Shift the focus from sheer economic growth to improving the overall well-being of individuals and communities.
+            - Prioritize health, education, and leisure over excessive material consumption.
+
+        6. **Innovation and Technology:**
+            - Foster innovation that enhances sustainability and reduces environmental impact.
+            - Embrace technologies that enable decoupling of economic growth from resource use.
+
+        7. **Regulation and Policy:**
+            - Implement and advocate for policies that incentivize sustainable practices.
+            - Create regulations that discourage environmentally harmful activities.
+
+        8. **Measuring Success:**
+            - Redefine success metrics beyond GDP, considering well-being, environmental indicators, and social progress.
+            - Develop alternative measures that reflect the goals of economic degrowth and decoupling.
+
+        9. **Education and Awareness:**
+            - Raise awareness about the principles and benefits of economic degrowth and decoupling.
+            - Promote education on sustainable living and consumption patterns.
+
+        10. **Collaboration:**
+            - Foster collaboration between governments, businesses, and communities to implement and support sustainable practices.
+            - Share knowledge and best practices globally.
+
+        By keeping these principles in mind, designers can contribute to creating systems that align with the goals of economic degrowth and decoupling, promoting a more sustainable and equitable future.
+
+    **Three key question suggested from Andres**
+
+    1. **Suffiences**
+        - To having an adequate amount of something, being self-sufficient or having enough resources.
+
+    2. **Consumption** (efficient use of resources) & **Production** (generating enough resources)
+
+    3. **FairyTale** from the Nation/ the Country/ the States
+
+    !!!info "References"
+
+        [2014 Forum on Ethics & Nature: Robin Kimmerer](https://www.youtube.com/watch?v=fpldlXLnR9E)
+
+        [The Secret to Talking about Climate Change](https://www.youtube.com/watch?v=UHPZw0zbHNE)
+
+
+!!!note "<font color="red">Jamaica Balls</font>"
+
+    !!! note ""
+        <center>
+        **:footprints:Gente:footprints:**: DUDU/ Yaadi
+
+        **:date:CALENDAR:date:**: 2023/12/24-2024/01/03
+
+        **:camera:Medium:camera:**": Sony APS-C
+                
+        **:world_map:Location:world_map:**: Jamaica</center>
+
+    <font color="green">Every single one in this earth love the **pretty things**, then what about the **ugly things**? Let me give a try to solve this bug. 
+
+    **BUG**: How to solve the trash and either make it to a functional or aesthetic. To let the ==Pretty== & ==Ugly== to stay at a balance. </font>
+
+    > It was nice to have the winter break spent in Jamaica. It helped me enlarge my perspective on seeing the world and rethink about the environment and waste. Several weak signals in Jamaica:
+
+    **Waste Management Observations:**
+
+    1. The understanding of waste/trash is different compared to the city:
+        - For example, people in the city will throw the garbage into the trash can, and the trash company will help us deal with that waste. But people in Jamaica, who live in nature, will burn the trash/garbage. So, considering the pollution or health situation from burning plastic just right next to you while playing dominoes or swimming in the river.
+        - Also, the age of the trash: People living in the city will throw away new plastic or trash immediately after they finish using it. But people I met in Jamaica will reuse the waste.
+        - (Can we design a machine that can dissolve and break down the waste in the local neighborhood and print it as a new usable thing?)
+
+    2. The ecosystem is amazing in Jamaica, its the gift from the sky, so when I saw a garbage mountain in the middle of amazing envirnoment, my heart start break down. 
+
+    **Noise Pollution from Sound Systems:**
+
+    2. A good point from Jamaican teenager Chris: The issue of sound pollution from sound systems."
+
+        - _Impact on Community Well-being:_ The Jamaican teenager mention of sound systems and noise pollution highlights a potential environmental concern. Balancing the cultural significance of events with the well-being of local communities is crucial.
+
+    **Lack of technological skills**
+
+    - I couldn't help but notice the genuine curiosity people have about technology. It's amusing that whenever someone saw my phone, the first question was always, "Which iPhone is this?" Despite this interest, there's a twist – many locals face a challenge as they lack both knowledge and financial means to actively engage in societal activities.
+
+    - It's interesting to witness the excitement people have for modern gadgets, especially iPhones. However, the reality is that not everyone can fully dive into technology due to limited resources and knowledge.
+
+    - The mix of curiosity and limited access to information and financial resources creates a unique situation. There's interest, yet the pace of life seems laid-back, possibly because not everyone can fully participate in the digital world.
+
+    - My experience in Jamaica raises questions about the connection between technology, knowledge, and socioeconomic factors. How can we bridge the gap and empower communities to be more actively involved in the digital age? Initiatives focusing on digital literacy or making technology more accessible could play a significant role in creating a more inclusive and engaged society.

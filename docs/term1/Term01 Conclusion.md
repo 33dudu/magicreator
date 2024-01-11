@@ -112,11 +112,23 @@ hide:
                 - Also, the age of the trash: People living in the city will throw away new plastic or trash immediately after they finish using it. But people I met in Jamaica will reuse the waste.
                 - (Can we design a machine that can dissolve and break down the waste in the local neighborhood and print it as a new usable thing?)
 
+            2. The ecosystem is amazing in Jamaica, its the gift from the sky, so when I saw a garbage mountain in the middle of amazing envirnoment, my heart start break down. 
+
             **Noise Pollution from Sound Systems:**
 
             2. A good point from Jamaican teenager Chris: The issue of sound pollution from sound systems."
 
                 - _Impact on Community Well-being:_ The Jamaican teenager mention of sound systems and noise pollution highlights a potential environmental concern. Balancing the cultural significance of events with the well-being of local communities is crucial.
+
+            **Lack of technological skills**
+
+            - I couldn't help but notice the genuine curiosity people have about technology. It's amusing that whenever someone saw my phone, the first question was always, "Which iPhone is this?" Despite this interest, there's a twist – many locals face a challenge as they lack both knowledge and financial means to actively engage in societal activities.
+
+            - It's interesting to witness the excitement people have for modern gadgets, especially iPhones. However, the reality is that not everyone can fully dive into technology due to limited resources and knowledge.
+
+            - The mix of curiosity and limited access to information and financial resources creates a unique situation. There's interest, yet the pace of life seems laid-back, possibly because not everyone can fully participate in the digital world.
+
+            - My experience in Jamaica raises questions about the connection between technology, knowledge, and socioeconomic factors. How can we bridge the gap and empower communities to be more actively involved in the digital age? Initiatives focusing on digital literacy or making technology more accessible could play a significant role in creating a more inclusive and engaged society.
 
         - Bali
 
