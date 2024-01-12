@@ -188,11 +188,11 @@ hide:
 
     !!!note ""
 
-        :heart: Thank you for ChatMA, my peer~:heart:for sharing me her notes of the first half class
+        :heart: Thank you [ChatMA](https://manujaagnihotri.github.io/MDEFPortfolio/), my peer~:heart:for sharing me her notes of the first half class
 
         ## :question: How to separate economic growth from its negative impacts on the environment?
 
-        ## :world_map:The goal is to keep the economy growing while reducing its harmful effects on the planet. Focus on sustainable and equitable development rather than perpetual expansion.
+        **:world_map:The goal is to keep the economy growing while reducing its harmful effects on the planet. Focus on sustainable and equitable development rather than perpetual expansion.**
 
         1. **Design:**
             - When designing for economic degrowth and decoupling, consider the following key principles**

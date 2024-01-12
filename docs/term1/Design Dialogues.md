@@ -213,6 +213,11 @@ hide:
 
         ![](../images/designdia/present.png){: style="height:300px;width:480px"}
 
+        - [Drap-Art'23](https://drap-art.org/en/web/drap-art-2023/)(A great suggestion from Roger, the exhibition was amazing and inspired:clap:THANK YOU)
+
+        ![](../images/designdia/drapart.png){: style="height:400px;width:580px"}
+
+
 
 
 
@@ -258,6 +263,8 @@ hide:
                 > Comments for THE FUTURE
 
                 ![](../images/designdia/future.png){: style="height:500px;width:300px"}
+
+
 
 
 

@@ -40,46 +40,30 @@ hide:
     !!! note ""
         > ROLE 1: The prototype as ==Experimental Component{self-test}==
             
-        **Bingo**
+        [Bingo](https://33dudu.github.io/magicreator/term1/Intervention%2001/):point_left:
 
-        - https://33dudu.github.io/magicreator/term1/Intervention%2001/
+        [Extended Intelligences](https://33dudu.github.io/magicreator/term1/12-Extended%20Intelligences/):point_left:
 
-        - https://33dudu.github.io/magicreator/term1/12-Extended%20Intelligences/
+        [Street Art](https://33dudu.github.io/magicreator/):point_left:
 
-        **Street Art**
-
-        - https://33dudu.github.io/magicreator/
-
-        **Catalan Modernism**
-
-        - https://33dudu.github.io/magicreator/cat/
+        [Catalan Modernism](https://33dudu.github.io/magicreator/cat/):point_left:
         
     !!! note ""
         > ROLE 2: The prototype as a means of ==Inquiry{asking question}==
 
-        **Design With Others**
+        [Design With Others](https://33dudu.github.io/magicreator/term1/09-%20Design%20With%20Others/):point_left:
 
-        - https://33dudu.github.io/magicreator/term1/09-%20Design%20With%20Others/
-
-        **Extended Intelligences**
-
-        - https://33dudu.github.io/magicreator/term1/12-Extended%20Intelligences/
+        [Extended Intelligences](https://33dudu.github.io/magicreator/term1/12-Extended%20Intelligences/):point_left:
 
     !!! note ""
         > ROLE 3:
         The prototype as a research archetype ==Examplary&Illustrative{"show-off"}==
 
-        **Gente ArtMovment**
+        [Gente ArtMovment](https://33dudu.github.io/magicreator/project/gente/):point_left:
 
-        - https://33dudu.github.io/magicreator/project/gente/
+        [Living With Your Own Ideas](https://33dudu.github.io/magicreator/term1/06-Living%20With%20Your%20Own%20Ideas/):point_left:
 
-        **Living With Your Own Ideas**
-
-        - https://33dudu.github.io/magicreator/term1/06-Living%20With%20Your%20Own%20Ideas/
-
-        **Design Dialogues**
-
-        - https://33dudu.github.io/magicreator/term1/Design%20Dialogues/#now-its-our-time-to-shine
+        [Design Dialogues](https://33dudu.github.io/magicreator/term1/Design%20Dialogues/#now-its-our-time-to-shine):point_left:
 
     !!! info ""
 
@@ -148,25 +132,68 @@ hide:
         - Computer
         - L’Ateneu de Fabricació de Gràcia :https://ajuntament.barcelona.cat/ateneusdefabricacio/ca/ateneu-de-fabricacio-de-gracia/
         - Wasted collected from restaruant
+        - IAAC 
 
 
 
 !!! question "Framing a personal and a collective Design Space based on AoWS, Multiscalar Design Space and State of the Art. Personally reflect on your area of interest and areas of intervention."
     !!! note ""
-        **1.0 AWoS**
+        - [1.0 AWoS](https://33dudu.github.io/magicreator/term1/02-Atlas%20of%20Weak%20Signals/):point_left:
 
-        - https://33dudu.github.io/magicreator/term1/02-Atlas%20of%20Weak%20Signals/
     
     !!! note ""
-        **2.0 AWoS**
+        - [Design Space](https://33dudu.github.io/magicreator/term1/03-Brainshit/):point_left:
 
-        - In Progress
-
-    
 !!! question "Communication Strategies, Formats and Roles for Open Design Processes."
-    a) Include the deliverable for the session “Personal narratives, collective storytelling. Forms of 1PP Documentation and Communication.” Reflect on how to put it in practice.
+    _a) Include the deliverable for the session “Personal narratives, collective storytelling. Forms of 1PP Documentation and Communication.” Reflect on how to put it in practice._
     !!! note ""
-        - https://33dudu.github.io/magicreator/term1/Collective%20Stories/
+        - [Collective Storytelling](https://33dudu.github.io/magicreator/term1/Collective%20Stories/):point_left:
 
-    b) Reflect on the communication strategy that best suits the needs you have right now in your research and the ones you could explore for the next stages of your project.
+    _b) Reflect on the communication strategy that best suits the needs you have right now in your research and the ones you could explore for the next stages of your project._
+    !!! note ""
+        - The best suits :+1:
+        
+        ``` mermaid
+            graph LR
+            A[Storytelling]
+            A -->|Plus/+/| B{adj.};
+        ```    
+
+        ``` mermaid
+            graph LR
+            A[Personal] --> B{Copy};
+            B -->|Plus/+/| C{Paste};
+            C -->|Plus/+/| D{Cut};
+        ```
+
+        - Need to be explore:punch:
+        ``` mermaid
+            graph LR
+            A[Narrative] 
+            A -->|Minus/-/| B{adj.};
+        ```
+
+        ``` mermaid
+            graph LR
+            A[Collective] --> B{Copy};
+            B -->|Plus/+/| C{Paste};
+        ```    
+!!! question "First interventions"
+    _a) Add here, one by one, the main design experiments and interventions that you contributed to throughout the Term._
+
+    [Collective Design Intervention](https://drive.google.com/file/d/1qlTb52LyYJB6-JdwJycG9vsMITfdZS3L/view)
+
+    !!! note ""
+
+        ## [Intervention 01](https://33dudu.github.io/magicreator/term1/Intervention%2001/):point_left:
+
+        ![](../images/bingo/ilovegarbage.png){: style="height:300px;width:430px"}
+
+
+    !!! note ""
+        
+        ## [Intervention 02](https://33dudu.github.io/magicreator/term1/Intervention%2002/):point_left:
+
+        ## **:alien:Everyday Halloween, Until Halloween** :alien:
+
 
