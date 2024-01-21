@@ -235,14 +235,19 @@ hide:
 
         By keeping these principles in mind, designers can contribute to creating systems that align with the goals of economic degrowth and decoupling, promoting a more sustainable and equitable future.
 
-    **Three key question suggested from Andres**
+    !!! note ""
+        **Three key question suggested from Andres**
 
-    1. **Suffiences**
-        - To having an adequate amount of something, being self-sufficient or having enough resources.
+        1. **Suffiences**
+            - To having an adequate amount of something, being self-sufficient or having enough resources.
 
-    2. **Consumption** (efficient use of resources) & **Production** (generating enough resources)
+        2. **Consumption** (efficient use of resources) & **Production** (generating enough resources)
 
-    3. **FairyTale** from the Nation/ the Country/ the States
+        3. **FairyTale** from the Nation/ the Country/ the States
+
+    !!!example ":green_heart:Spring Team :green_heart:"
+
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROFUu4F8hInpGumLa_UFnTcq-WIPfqeMXDTvmrYkmh85k7RhtN9hHBGlniPoUyfagiT9GmBoeNJVpR/embed?start=false&loop=true&delayms=10000" frameborder="0" width="960" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
     !!!info "References"
 
@@ -250,46 +255,58 @@ hide:
 
         [The Secret to Talking about Climate Change](https://www.youtube.com/watch?v=UHPZw0zbHNE)
 
+!!! note ""
+    <center> 
+    # **:love_letter:Climate Emergency in Kingston, Jamaica:love_letter:**</center>
 
-!!!note "<font color="red">Jamaica Balls</font>"
+    !!!note "<font color="red">Jamaica Balls</font>"
 
-    !!! note ""
-        <center>
-        **:footprints:Gente:footprints:**: DUDU/ Yaadi
+        !!! note ""
+            <center>
+            **:footprints:Gente:footprints:**: DUDU/ Yaadi
 
-        **:date:CALENDAR:date:**: 2023/12/24-2024/01/03
+            **:date:CALENDAR:date:**: 2023/12/24-2024/01/03
 
-        **:camera:Medium:camera:**": Sony APS-C
-                
-        **:world_map:Location:world_map:**: Jamaica</center>
+            **:camera:Medium:camera:**": Sony APS-C
+                    
+            **:world_map:Location:world_map:**: Kingston, Jamaica</center>
 
-    <font color="green">Every single one in this earth love the **pretty things**, then what about the **ugly things**? Let me give a try to solve this bug. 
+        <font color="green">Every single one in this earth love the **pretty things**, then what about the **ugly things**? Let me give a try to solve this bug. 
 
-    **BUG**: How to solve the trash and either make it to a functional or aesthetic. To let the ==Pretty== & ==Ugly== to stay at a balance. </font>
+        **BUG**: How to solve the trash and either make it to a functional or aesthetic. To let the ==Pretty== & ==Ugly== to stay at a balance. </font>
 
-    > It was nice to have the winter break spent in Jamaica. It helped me enlarge my perspective on seeing the world and rethink about the environment and waste. Several weak signals in Jamaica:
+        > It was nice to have the winter break spent in Jamaica. It helped me enlarge my perspective on seeing the world and rethink about the environment and waste. Several weak signals in Jamaica:
 
-    **Waste Management Observations:**
+        **Waste Management Observations:**
 
-    1. The understanding of waste/trash is different compared to the city:
-        - For example, people in the city will throw the garbage into the trash can, and the trash company will help us deal with that waste. But people in Jamaica, who live in nature, will burn the trash/garbage. So, considering the pollution or health situation from burning plastic just right next to you while playing dominoes or swimming in the river.
-        - Also, the age of the trash: People living in the city will throw away new plastic or trash immediately after they finish using it. But people I met in Jamaica will reuse the waste.
-        - (Can we design a machine that can dissolve and break down the waste in the local neighborhood and print it as a new usable thing?)
+        1. The understanding of waste/trash is different compared to the city:
+            - For example, people in the city will throw the garbage into the trash can, and the trash company will help us deal with that waste. But people in Jamaica, who live in nature, will burn the trash/garbage. So, considering the pollution or health situation from burning plastic just right next to you while playing dominoes or swimming in the river.
+            - Also, the age of the trash: People living in the city will throw away new plastic or trash immediately after they finish using it. But people I met in Jamaica will reuse the waste.
+            - (Can we design a machine that can dissolve and break down the waste in the local neighborhood and print it as a new usable thing?)
 
-    2. The ecosystem is amazing in Jamaica, its the gift from the sky, so when I saw a garbage mountain in the middle of amazing envirnoment, my heart start break down. 
+        2. The ecosystem is amazing in Jamaica, its the gift from the sky, so when I saw a garbage mountain in the middle of amazing envirnoment, my heart start break down. 
 
-    **Noise Pollution from Sound Systems:**
+        **Noise Pollution from Sound Systems:**
 
-    2. A good point from Jamaican teenager Chris: The issue of sound pollution from sound systems."
+        2. A good point from Jamaican teenager Chris: The issue of sound pollution from sound systems."
 
-        - _Impact on Community Well-being:_ The Jamaican teenager mention of sound systems and noise pollution highlights a potential environmental concern. Balancing the cultural significance of events with the well-being of local communities is crucial.
+            - _Impact on Community Well-being:_ The Jamaican teenager mention of sound systems and noise pollution highlights a potential environmental concern. Balancing the cultural significance of events with the well-being of local communities is crucial.
 
-    **Lack of technological skills**
+        **Lack of technological skills**
 
-    - I couldn't help but notice the genuine curiosity people have about technology. It's amusing that whenever someone saw my phone, the first question was always, "Which iPhone is this?" Despite this interest, there's a twist – many locals face a challenge as they lack both knowledge and financial means to actively engage in societal activities.
+        - I couldn't help but notice the genuine curiosity people have about technology. It's amusing that whenever someone saw my phone, the first question was always, "Which iPhone is this?" Despite this interest, there's a twist – many locals face a challenge as they lack both knowledge and financial means to actively engage in societal activities.
 
-    - It's interesting to witness the excitement people have for modern gadgets, especially iPhones. However, the reality is that not everyone can fully dive into technology due to limited resources and knowledge.
+        - It's interesting to witness the excitement people have for modern gadgets, especially iPhones. However, the reality is that not everyone can fully dive into technology due to limited resources and knowledge.
 
-    - The mix of curiosity and limited access to information and financial resources creates a unique situation. There's interest, yet the pace of life seems laid-back, possibly because not everyone can fully participate in the digital world.
+        - The mix of curiosity and limited access to information and financial resources creates a unique situation. There's interest, yet the pace of life seems laid-back, possibly because not everyone can fully participate in the digital world.
 
-    - My experience in Jamaica raises questions about the connection between technology, knowledge, and socioeconomic factors. How can we bridge the gap and empower communities to be more actively involved in the digital age? Initiatives focusing on digital literacy or making technology more accessible could play a significant role in creating a more inclusive and engaged society.
+        - My experience in Jamaica raises questions about the connection between technology, knowledge, and socioeconomic factors. How can we bridge the gap and empower communities to be more actively involved in the digital age? Initiatives focusing on digital literacy or making technology more accessible could play a significant role in creating a more inclusive and engaged society.
+
+!!! note ""
+    <center> 
+    # **:love_letter:Climate Emergency in New York, USA:love_letter:**
+    
+    !!! Warning ":eye: Coming soon:eye:"  
+        
+    
+    </center>
