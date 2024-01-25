@@ -30,6 +30,9 @@ hide:
 
     </center>
 
+!!!note "COOL"
+    [FABLAB Project](https://fablabbcn.org/projects)
+
 !!! bug "Video"
     <center>
     # **:love_letter:Enjoy the video below:love_letter:**

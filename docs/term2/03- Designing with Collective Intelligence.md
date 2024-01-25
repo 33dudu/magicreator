@@ -18,8 +18,10 @@ hide:
     ==Collabration==: School of Digital Arts at Manchester Metropolitan University/ [AX Mina](https://www.axmina.com/)
 
 !!! note "01/23"
+    <center>
     # :nerd_face:[**PROJECTIONS: "Things are not normal"**](https://downloads.bbc.co.uk/rd/advisory/bbcrd-projections-foresight-report-sep-2023.pdf):point_left:
-
+    :round_pushpin: Manchester, UK
+    </center>
     !!!example "Themes"
         1. **A complex world**
 
@@ -70,8 +72,12 @@ hide:
 
             > Hope just means another world might be possible, not promise, not guaranteed. Hope calls for action; action is impossible without hope. - Rebecca Solnit, Hope in the Dark
 
-!!!note "New York"
+!!!note "Magic"
     <center>
+    ## [AX Mina](https://www.axmina.com/)
+
+    :round_pushpin: Brooklyn, New York
+
     ![](../images/term2/collective%20Intelligence/5.jpg){: style="height:420px;width:480px"}
 
     !!!example ""
@@ -87,7 +93,7 @@ hide:
 
         > **eyes - action - gambling**  
 
-        ==the word future can be consider as an marketing word==
+        The word ==future== can be consider as a scam word that associated with  == marketing distric ==
 
     !!!note ""
         ## :computer:
@@ -106,4 +112,88 @@ hide:
         - [American technological sublime](https://doubleoperative.files.wordpress.com/2009/12/nye-david-e-american-technological-sublime.pdf)
 
         - [Black Future](https://www.goodreads.com/book/show/43982124-black-futures)
-     
+
+---
+!!!info "1/24"
+    !!! note "Outside of the box"
+    
+        [Blockchain](https://www.blockchain.com/):point_left:
+        > maintain a transparente transfer history  
+        > Blockchain is **decentralized ledger** that is: Shared/ Open/ Transparent/ Collaborative/ Immutable/ Verifiable/ Secure/ Privacy aware 
+
+        [NFT](https://en.wikipedia.org/wiki/Non-fungible_token):point_left:
+        > Examples: CryptoKitties / Bored Ape Yatch ==Club==
+
+        [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract):point_left:
+        > Encoding clauses into source code in a manner which is automatically self-enforced and executed without the need for a central authonity, in the form of smart contracts (Szabo, 1997)
+
+        [DAOs](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization):point_left:
+
+        - Distributed Autonomous Organizations 
+        - Organizations with rules in Smart Contracts
+        - Manage funds
+        - Govermance models
+        - [DeepDao](https://deepdao.io/organizations)
+
+        [Commons governance]()
+
+    !!!success ""
+        ## Elinor Ostrom :ok_woman:
+
+        1. Community **boundaries**
+        2. Rules adapted to **local** conditions
+        3. **Participatory** decision-making
+        4. **Monitoring**
+        5. Graduated **sanctions**
+        6. **Conflict resolution** mechanisms
+        7. **Recognition **by higher authorities
+        8. Multiple layer of nested enterprises
+
+    !!!success ""
+
+        ## DAFNE + Economic Model
+
+        - NFT marketplace
+        - Economic democracy
+        - Progressive fees
+        - Collective NFT authorship
+---
+
+!!!note ""
+    ## [LLM Workshop](https://en.wikipedia.org/wiki/Large_language_model):point_left:
+
+    Group members: Everardo/ Annna/ Anna/ Flora/ Albert/ Jorge/ Vania/ DuDu
+
+    Midinformation:  often about emerging scientific knowledge
+
+    ## Do machines Dream of the magic ?
+
+    Brain storm:
+
+    <center>
+    ![](../images/term2/collective%20Intelligence/s01.png){: style="height:300px;width:620px"}
+    </center>
+
+    > Comments from AX Mina :heart:
+
+    <center>
+    ![](../images/term2/collective%20Intelligence/s03.png){: style="height:300px;width:420px"}
+    ![](../images/term2/collective%20Intelligence/s02.png){: style="height:300px;width:420px"}
+
+    ![](../images/term2/collective%20Intelligence/s04.png){: style="height:300px;width:450px"}
+    ![](../images/term2/collective%20Intelligence/s05.png){: style="height:300px;width:360px"}
+
+    ![](../images/term2/collective%20Intelligence/s06.png){: style="height:300px;width:450px"}
+    ![](../images/term2/collective%20Intelligence/s07.png){: style="height:300px;width:400px"}
+    </center>
+
+
+!!!note "1/25"
+    [The DAFNE+ Value](https://dafneplus.eu/)
+    > DAFNE+ is a decentralized platform for fair creative content distribution which empowers creators and communities through new digital distribution models based on digital tokens (NFTs).  ​
+
+    > DAFNE+ is a project funded by the European Commision’s HORIZON program, that aims to help digital content creators to find new forms of creation, distribution and monetization of their works of art through blockchain technology.
+
+1. Understand how to use the dao
+2. ⁠find some opportunities that dafne can help us for our project 
+3. ⁠ask more about daos to pimp our project
