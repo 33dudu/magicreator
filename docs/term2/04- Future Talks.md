@@ -9,10 +9,14 @@ hide:
 
 
 !!! info "info"
-    ==FACULTY==: Jessica Guy/ Olga Trevisan
+    ==FACULTY==: Guillem Camprodon/ Laura Benitez/ Laura Benitez/ Roger Guilemany
     
-    ==CALENDAR==: 23/01/2023 - 26/01/2023
+    ==CALENDAR==: 16/01/2024 - 19/02/202
 
-    ==TRACK==: Exploration
+    ==TRACK==: Reflection
 
-    ==Collabration==: School of Digital Arts at Manchester Metropolitan University/ [AX Mina](https://www.axmina.com/)
+
+!!! quote
+    <center>
+    # **:kiss:Coming~:kiss:**
+    </center>

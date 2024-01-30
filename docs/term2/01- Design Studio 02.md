@@ -10,6 +10,11 @@ hide:
 
     ==TRACK==: Reflection
 
+!!! quote
+    <center>
+    # **:kiss:Coming~:kiss:**
+    </center>
+
 !!! note "Notes from 01/22/23"
     **Alternative presents**
 
