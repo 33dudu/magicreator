@@ -8,7 +8,7 @@ hide:
     #IN PROGRESS
 
 !!! info "Designing in a State of Climate Emergency"
-    ## :robot:**Due to my personal reason this seminar is all Virtual. At this point, I love you [TECH](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript).**:robot:
+    ## :robot:**Due to my personal reason this seminar is all Virtual. At this point, I love you [TECH](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript).:point_left:**:robot:
 
     **FACULTY**: Andres Colmenares/ Gustavo Nogueira
     
@@ -21,7 +21,7 @@ hide:
     <center>
 
     ![](../images/term2/climate%20emergency/ubuntu.jpg){: style="height:500px;width:380px"}
-    # **[Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)** I am because WE are
+    # **:point_right:[Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)** I am because WE are
 
 
 
@@ -132,14 +132,24 @@ hide:
 
 
 
-    !!! example ""
+    !!! example "Gold-points"
+        <center>
+        ![](../images/term2/climate%20emergency/3.png){: style="height:400px;width:620px"}
+
+        _By: Ana Lozano/ Carmen Veciana/ Núria Valsells/ Qianyin Du/ Oliver Lloyd_
+
+        </center>
         ##:sunglasses:What is your 3 key takeaways?
         1. When we say machines learning, lets say collaborative learning 
 
         2. The end of the capitalism?
         3. Do you know where your shit goes?
 
-        we are no longer people we are user
+    !!!example ":green_heart:Spring Team :green_heart:"
+
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROFUu4F8hInpGumLa_UFnTcq-WIPfqeMXDTvmrYkmh85k7RhtN9hHBGlniPoUyfagiT9GmBoeNJVpR/embed?start=false&loop=true&delayms=10000" frameborder="0" width="960" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+        * we are no longer people we are user
 
 !!! note "Date: 2024/01/10"
     <center>
@@ -245,32 +255,45 @@ hide:
 
         3. **FairyTale** from the Nation/ the Country/ the States
 
-    !!!example ":green_heart:Spring Team :green_heart:"
-
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROFUu4F8hInpGumLa_UFnTcq-WIPfqeMXDTvmrYkmh85k7RhtN9hHBGlniPoUyfagiT9GmBoeNJVpR/embed?start=false&loop=true&delayms=10000" frameborder="0" width="960" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
     !!!info "References"
 
         [2014 Forum on Ethics & Nature: Robin Kimmerer](https://www.youtube.com/watch?v=fpldlXLnR9E)
 
         [The Secret to Talking about Climate Change](https://www.youtube.com/watch?v=UHPZw0zbHNE)
 
+!!! tip ""
+    <center>
+    # <font color="white">  Personal 	:warning: 	:bangbang: observations  	:bangbang:	:warning: from different place, but same <font color="oceanblue">**WORLD** 
+
+    ## :sparkling_heart::point_down::point_down::point_down::sparkling_heart:
+ 
 !!! note ""
     <center> 
-    # **:love_letter:Climate Emergency in Kingston, Jamaica:love_letter:**</center>
+    # **:love_letter:Climate Emergency in Kingston, Jamaica:love_letter:**
 
+    !!!example ""
+        ![](../images/term2/comm/GOLDEN%20CIRCLE.png){: style="height:400px;width:550px"}
+
+        ## :question:What is **WORLD**:world_map:
+
+        !!!note ""      
+            From my perspective YIN&YANG would be the best word to describe the :white_circle::black_circle:**WORLD**:black_circle::white_circle:. The background on the left side is a trash mountain. But the TRA:moneybag:H with the hidden gold. Additionally, THE EYE, which has a shapeless-harmful effect, represents Mr. SOUNDs system:level_slider:. On the right side is the tropical island where i feel like a HOME:heart_white:, and my cutie TRA:moneybag:H friendssssss~~
+    
     !!!note "<font color="red">Jamaica Balls</font>"
 
         !!! note ""
-            <center>
+            
             **:footprints:Gente:footprints:**: DUDU/ Yaadi
 
             **:date:CALENDAR:date:**: 2023/12/24-2024/01/03
 
             **:camera:Medium:camera:**": Sony APS-C
                     
-            **:world_map:Location:world_map:**: Kingston, Jamaica</center>
+            **:world_map:Location:world_map:**: Kingston, Jamaica.  
+    </center>
+        
 
+    !!! note ""
         <font color="green">Every single one in this earth love the **pretty things**, then what about the **ugly things**? Let me give a try to solve this bug. 
 
         **BUG**: How to solve the trash and either make it to a functional or aesthetic. To let the ==Pretty== & ==Ugly== to stay at a balance. </font>
@@ -302,11 +325,16 @@ hide:
 
         - My experience in Jamaica raises questions about the connection between technology, knowledge, and socioeconomic factors. How can we bridge the gap and empower communities to be more actively involved in the digital age? Initiatives focusing on digital literacy or making technology more accessible could play a significant role in creating a more inclusive and engaged society.
 
+
+
 !!! note ""
     <center> 
     # **:love_letter:Climate Emergency in New York, USA:love_letter:**
     
-    !!! Warning ":eye: Coming soon:eye:"  
-        
-    
+    !!! Warning ":no_mouth: Shhhhh.... :zipper_mouth_face: "  
+    > This is a sensitive topic for my identity, but strangely, I am very interested in this subject. My bachelor's degree thesis utilized the iceberg theory from Freudian psychology, and I designed a speakeasy social club or dispensary in the Lower East Side of NYC. However, when I returned to New York after three years, after they legalized everything, everything had taken on a different flavor. I saw many dispensaries, and their lights were shining brighter than the lights on an operating table. Is this really a right or safe thing to do?
+
+    :point_right:[01- :green_heart:](https://www.nyc.gov/site/doh/health/health-topics/marijuana.page)
+
+    :point_right:[02- :green_heart:](https://ny1.com/nyc/all-boroughs/news/2023/06/22/ny-to-lose-millions-in-cannabis-tax-revenue-due-to-illegal-market)
     </center>

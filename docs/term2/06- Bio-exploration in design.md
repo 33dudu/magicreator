@@ -56,6 +56,19 @@ hide:
 
         :two_women_holding_hands: Dhrishya & DUDU
 
+    !!! Note " Info" 
+        
+        | Bioplastic       | Gelatine based- Foam                          |
+        |----------------------------------------|--------------------------------|
+        | Biopolymer                        | 45ml gelatine  |
+        | Plasticizer             | 30g glycerine |
+        | Additive   | 6ml dish soap                    |
+        | Solvent            | 60ml water             |
+        | Wasted | :heart: Flora's babie Teabag :heart: |
+        | Texture| Flexible |
+        | Unique | Smells Good | 
+
+        
 !!! note ""
     ## 3.0 TEST :nerd_face:
 
@@ -67,3 +80,14 @@ hide:
         :couple: Yaadig? & DUDU
 
 
+
+    !!! Note " Info" 
+        
+        | Bioplastic       | MDEF                           |
+        |----------------------------------------|--------------------------------|
+        | Biopolymer                        | 45ml gelatine  |
+        | Plasticizer             | 30g glycerine |
+        | Additive   | 6ml dish soap                    |
+        | Solvent            | 60ml water             |
+        | Wasted | :heart: Flora Teabag |
+        | Texture| Flexible |
