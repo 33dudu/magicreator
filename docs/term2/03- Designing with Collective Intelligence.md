@@ -3,12 +3,8 @@ hide:
     - toc
 ---
 
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS
 
-
-!!! info "info"
+!!! info "Designing with Collective Intelligence"
     ==FACULTY==: Jessica Guy/ Olga Trevisan
     
     ==CALENDAR==: 23/01/2023 - 26/01/2023
@@ -16,6 +12,14 @@ hide:
     ==TRACK==: Exploration
 
     ==Collabration==: School of Digital Arts at Manchester Metropolitan University/ [AX Mina](https://www.axmina.com/)
+
+
+!!! quote
+    <center>
+    ![](../images/term2/collective%20Intelligence/cat.jpg){: style="height:330px;width:480px"}
+
+    ## :yin_yang:科学的尽头是玄学:yin_yang:
+    :atom_symbol:**THE END OF SCIENCE IS METAPHYSICS**	:atom_symbol:
 
 !!! note "01/23- Things are not normal"
     <center>
@@ -74,7 +78,7 @@ hide:
 
 !!!note "01/23 Magic"
     <center>
-    ## [AX Mina](https://www.axmina.com/)
+    ## [AX Mina](https://www.axmina.com/):point_left:
 
     :round_pushpin: Brooklyn, New York
 
@@ -93,7 +97,7 @@ hide:
 
         > **eyes - action - gambling**  
 
-        The word ==future== can be consider as a scam word that associated with  == marketing distric ==
+        The word ==future== can be consider as a scam word that associated with  ==marketing distric==
 
     !!!note ""
         ## :computer:
@@ -215,3 +219,26 @@ hide:
     1. Understand how to use the dao
     2. ⁠find some opportunities that dafne can help us for our project 
     3. ⁠ask more about daos to pimp our project
+
+!!!example "DODO"
+    <center>
+    ## CHECK OUT OUR NFT WORK :heart: 
+    !!! note ""
+        ## :kissing_cat:[DODO 01](https://dafneplus.eng.it/marketplace/55):point_left:
+
+        ![](../images/term2/collective%20Intelligence/tollboxfinal.png){: style="height:300px;width:490px"}
+
+    !!! note ""
+        ## :heart_eyes_cat:[DODO 02](https://dafneplus.eng.it/marketplace/56):point_left:
+
+        ![](../images/term2/collective%20Intelligence/toolkitpresentacion.png){: style="height:300px;width:490px"}
+
+    !!! note ""
+        ## :nerd_face:OUR BRAIN SHEET:nerd_face:
+        ![](../images/term2/collective%20Intelligence/dodo%20text.png){: style="height:300px;width:490px"}
+
+        ## :innocent:COMMENTS FROM AMAZING PEOPLE:innocent:
+        ![](../images/term2/collective%20Intelligence/dodo%20comment01.png){: style="height:300px;width:490px"}
+        ![](../images/term2/collective%20Intelligence/dodo%20comment02.png){: style="height:300px;width:490px"}
+        ![](../images/term2/collective%20Intelligence/dodo%20comment03.png){: style="height:300px;width:490px"}
+

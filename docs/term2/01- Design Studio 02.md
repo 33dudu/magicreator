@@ -12,133 +12,24 @@ hide:
 
 !!! quote
     <center>
-    # **:kiss:Coming~:kiss:**
+    ## **:crying_cat_face:You know, they made trash look good in the videos, but when you go there, its an other world.:crying_cat_face:**
+    
+    - YAADIg?
     </center>
 
-!!! note "Notes from 01/22/23"
-    **Alternative presents**
+!!! abstract "RESEARCH"
 
-    - Creative
-
-    **Autoethnography** 
-
-    - Self
-    - systematically analyze personal experiences to understand socio-technical systems.
-
-    **Ways of rifting**
-
-    - Cultural/ philosophical meaning
-    - Giving yourself the freedom to explore without a specific goal in mind can lead to unexpected and innovative artistic outcomes.
-
-    !!! note "keywords"
-        **Keywords:**
-
-        - Responsibility 
-        - Accountablity
-        - Transparency
-        - Empathy
-        - Positionality. 
+    1. 阿鲁纳奇
+        - 010101
+        - gold
+        - he gives us many perspective of cultures and mading methods that help us improving the commnication with earth. 
 
 
+    2. **pixiel art**
+        - voxel art
 
-
-    !!! note ""
-        **Defined study boundaries**
-
-        :question: Can I understand the object of my study?
-
-        :question: Can I define the boudaries of my study?
-
-        **Authenticity**
-
-        :question: Was my first person perspectiive authentic? Was it meaningful?
-
-        **Plausibility or Scholarship**
-
-        :question: Is this useful? Can it be writtened or explained?
-
-        **Criticality**
-
-
-        :question: So what? Did my actions make to learn about other things?
-
-        **Self-Revealing communication**
-
-        :question: Did I show my work transparently? Was there something I didn't show? Why?
-
-        **Ability to generalize**
-        
-        :question: Does it relate to others, can it be meaningful for others? What kind of profile is the one which I am looking at?
-
-
-    !!!example "1.0 test"
-
-        ## **Term 2: Embodying**
-        ---
-        Templates:
-
-        ![](../images/term2/design%20studio%2002/templet.png){: style="height:300px;width:580px"}
-
-        ---
-
-        :question: What is ALTERNATIVE?
-        
-        - In design, the term **"alternative"** refers to unconventional or non-traditional approaches, solutions, or concepts that deviate from the mainstream or common practices. Designers often explore alternatives to push creative boundaries, solve problems in innovative ways, and challenge established norms. 
-
-
-        :question: **Present continuities**
-
-        - The current ways people deal with waste on Earth are divided between urban and natural environments. Let's focus on urban areas. Before the holiday, I asked for help from two Chinese restaurants to collect the wasted of the egg trays. These trays are considered garbage by the restaurant staff. After using the eggs, they discard the trays, creating a cycle of this material.
-
-        :question: **Alternative Present**
-
-        - Every time I visit these restaurants, due to my background, I notice many shortcomings in how they organize their space and tabletops. However, if we were to directly address this with them, they might opt to purchase new "trash containers." If possible, we could utilize the waste they collect and, through our design thinking, create items that are not only unique but also useful for them. This could be a solution.
-
-        :question: **Collective design interventions that support this alternative present**
-
-        <center>
-        :heart:Wall-E :heart:Forky:heart:Emile:heart:
-
-        ![](../images/term2/design%20studio%2002/trash.jpg){: style="height:500px;width:380px"}
-        </center>
-
-
-
-    !!! note "Ways of Drifting:"
-        ---
-        Diagram:
-
-        <center>
-        ![](../images/term2/design%20studio%2002/5way%20of%20drifting.png){: style="height:300px;width:580px"}
-        </center>
-        ---
-
-        :one:**Accumulative**
-
-        - Focusing on specific aspects
-        - Allows for deep understanding of a topic
-
-
-        :two:**Comparative**
-
-        - Different perspectives on the same topic 
-        - Allows for exploring different contexts
-
-        :three:**Serial**
-
-        - Di are informed by previous ones.
-        - Di follow a particular order
-
-        :four:**Expansive**
-
-        - Di to explore new areas of interest
-        - Not an specific order
-
-        :five:**Probing**
-
-        - Less thoughtful, more artistics way
-        - Personal motivations in specific environments
-        - clear area of interest pre-defined
+    3. From annna
+        - https://janneschimmel.com/
 
 
 !!! danger "2.0 AwoS"

@@ -39,7 +39,7 @@ hide:
         <font color="white"> 
         ## :question:What is **WORLD**:world_map:
             
-        ## From my perspective YIN&YANG would be the best word to describe the :white_circle::black_circle:**WORLD**:black_circle::white_circle:. The background on the left side is a trash mountain. But the TRA:moneybag:H with the hidden gold. Additionally, THE EYE, which has a shapeless-harmful effect, represents Mr. SOUNDs system:level_slider:. On the right side is the tropical island where i feel like a HOME:heart_white:, and my cutie TRA:moneybag:H friendssssss~~
+        ## From my perspective YIN&YANG would be the best word to describe the :white_circle::black_circle:**WORLD**:black_circle::white_circle:. The background on the left side is a trash mountain. But the TRA:moneybag:H with the hidden gold. Additionally, THE EYE, which has a shapeless-harmful effect, represents Mr. SOUNDs system:level_slider:. On the right side is the tropical island where i feel like a HOME:heart:, and my cutie TRA:moneybag:H friendssssss~~
 
         ## <font color="red"> :question:What do we do </font color>
 
@@ -58,10 +58,21 @@ hide:
             I am someone who can be friends with myself. On my journey of self-discovery, I found a passion for tropical islands and an interest in the culture and history behind each independent island. However, many people only see its beautiful side and overlook its ugly aspects. There is a lot of pollution in tropical islands that humanity tends to ignore. I don't want to selfishly enjoy the gifts of nature; I hope, if possible, to inspire everyone with our power to help the Earth. But we are not looking for a one-sided benefit; it would be a situation where both parties gain.
         
     
-        ## :thought_balloon: Interview With Anth
         !!! info ""
+            ## :thought_balloon: 33DuDu's Interview
 
             <iframe width="560" height="315" src="https://www.youtube.com/embed/AFUzbku-228?si=LILzw_TXPIrY0zkl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        !!! info ""
+            ## :thought_balloon: Anthu's Interview
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/SfUsb46kbjM?si=3-7YghmD5YbRKWsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        !!! info ""
+            Music recommended by Anthu :heart:
+        
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Mml5IpLBd5B6GNgjVpJ1x?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+        !!! info ""
 
         !!! info ""
             ## GOLDEN CIRCLE
