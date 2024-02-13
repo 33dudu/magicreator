@@ -17,6 +17,10 @@ hide:
 
     ==KEYWORDS==: Storytelling, Communication, Narrative
 
+!!! quote 
+    <center>
+    # **:eye:Medium - 媒介:eye:**
+
 
 !!! tip ""
     <font color="white"> <center>
@@ -103,3 +107,11 @@ hide:
         - ARGUMENT :question: WHAT 
 
     ## DAY 02 
+
+
+
+
+    ## DAY 03 (13/02/2024)
+    !!! note ""
+        ## :question: Who is your project audience?
+        ## :question: Which message do you want to give?
