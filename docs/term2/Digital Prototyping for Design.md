@@ -3,6 +3,12 @@ hide:
     - toc
 ---
 
+
+
+!!! Warning "HAPPENING"  
+    
+    #IN PROGRESS
+
 !!! info "Digital Prototying for Design"
     ==FACULTY==: Santiago Fuentemilla Garriga/ Oscar Gonzalez/ Josep Marti Elias/ Petra Garajová/ Adai Surinach
 
@@ -29,5 +35,10 @@ hide:
     [plaster studio](http://www.theplastercollective.com/el-panamericano-1)
     
     Side notes for Kombucha: test the ph#, usually the # of ph are 3-4
+
+!!! note ""
+    # [Mirochallenge I](https://fablabbcn-projects.gitlab.io/learning/educational-docs/challenge/c_1/):point_left:
+    13/02/24-16/02/24
+
 
 

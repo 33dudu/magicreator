@@ -20,13 +20,109 @@ hide:
     <center>
     # **:sparkling_heart:I LOVE GEEK**:sparkling_heart:
 
-    ![](../images/term2/measuring/thug.jpg){: style="height:400px;width:400px"}
+    ![](../images/term2/measuring/thug.jpg)
 
-    
-    
 
 
 !!! example "REAL G"
+    !!! info ""
+        <center>
+	
+        
+        # We want to be more :revolving_hearts:CONNECTED:revolving_hearts:.
+
+        ## :tools:Tool:tools:: (B)arduino
+
+        
+        ## :nerd_face: Welcome to the **Real G Team:** 
+
+        !!! note ""
+            🧐: G stand for what? Gangstar?
+        
+            😇: NO! G stand for GEEK
+    
+        :heart:Qianyin Du:heart: Ana Lozano:heart:Jorge Muñoz:heart:Dhrishya Ramadass:heart:Emmanuelle Pangilinan:heart:
+        </center>
+        
+    !!! note ""
+        ## **Brainstorming Our Area of Interest**
+        <center>
+        ![](../images/term2/measuring/01.png){: style="height:380px;width:480px"}
+        </center>
+
+        > We define connectivity as shared spaces, whether physical or within cyberspace. Therefore, we decided to measure these common spaces by finding the different WiFi points in the Poblenou neighborhood. To detect the different WiFis in the neighborhood, we decided to use the Barduino.
+
+    !!! example "Project Goals"
+
+
+        !!! info ""
+            > _Leading Inquiry:_
+
+            ### How does the availability of shared spaces, both physically and digitally, impact community connectivity and collaboration?
+
+        !!! info ""
+            > _Objective:_
+
+            ### To detect  community connectivity and collaboration by assessing the accessibility and quality of shared spaces, both online and offline.
+
+        !!! info ""
+            > _Question(s):_
+
+            ### 1. Are there more spaces to be connected?
+
+            ### 2. Is it harder to be more connected?
+
+        !!! info ""
+            > _Hypotesis:_
+
+            ### Our hypothesis is that by employing the Barduino to detect WiFi points in the Poblenou neighborhood and utilizing multiple reference points, we will uncover varying levels of connectivity within the area. We anticipate finding a diverse range of WiFi networks, including both open and password-protected networks, reflecting the diverse usage patterns and security practices of residents and businesses in the neighborhood. Additionally, we expect that certain locations will exhibit higher concentrations of active WiFi points, indicating areas of higher connectivity and potential community engagement.
+
+            > _From hypotesis to Data:_
+
+            ### Measurement of Connectivity in the Poblenou Neighborhood using **(B)arduino**:
+            ![](../images/term2/measuring/barduino.png){: style="height:380px;width:390px"}
+        
+        !!! info ""
+            > _What is MQTT:_
+
+            ### MQTT is a lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth, such as in the Internet of Things (IoT).
+            
+            <center>
+            ![](../images/term2/measuring/mttp.png){: style="height:200px;width:370px"}
+            ![](../images/term2/measuring/pythonme.png){: style="height:350px;width:400px"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     > ## Introduction
 
@@ -44,7 +140,7 @@ hide:
     > 02/07/2024
 
     # **DATA vs INFORMATION**
-    :question: How do we collect the data and transform to a new **FORM**.
+    :question: How do we collect the data and transform to a new **FORM**. 
 
 
     | DATA | INFORMATION | 

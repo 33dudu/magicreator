@@ -115,3 +115,8 @@ hide:
     !!! note ""
         ## :question: Who is your project audience?
         ## :question: Which message do you want to give?
+
+        ## :question: What are you doing?
+        ## :question: Why you do it?
+        ## :question: How are you doing it?
+        ## :question: Where are you doing it?

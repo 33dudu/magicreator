@@ -43,8 +43,10 @@ nav:
           - DESIGNING WITH COLLECTIVE INTELLIGENCE: term2/03- Designing with Collective Intelligence.md
           - FUTURE TALKS: term2/04- Future Talks.md
           - COMMUNICATING IDEAS: term2/05- Communicating Ideas.md
-          - BIO-EXPLORATION: term2/06- Bio-exploration in design.md
-          - DIGITAL PROTOTYPING FOR DESIGN: term2/Digital Prototyping for Design.md
+          - DIGITAL PROTOTYPING FOR DESIGN: 
+              - CLASSNOTE: term2/Digital Prototyping for Design.md
+              - BIO-EXPLORATION: term2/06- Bio-exploration in design.md
+              - MICRO CHALLENGE: term2/Micro Challenge I.md
           - MEASURING THE WORLD: term2/07- Measuring The World.md
   - MASTER PROJECT:
       - GenTe Art Movement: project/gente.md
