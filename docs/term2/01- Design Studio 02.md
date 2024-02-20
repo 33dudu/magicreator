@@ -31,6 +31,9 @@ hide:
     3. From annna
         - https://janneschimmel.com/
 
+    4. Sounds System
+
+    5. Graffiti
 
 !!! danger "2.0 AwoS"
     # Coming Soon

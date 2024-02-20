@@ -36,9 +36,7 @@ hide:
     
     Side notes for Kombucha: test the ph#, usually the # of ph are 3-4
 
-!!! note ""
-    # [Mirochallenge I](https://fablabbcn-projects.gitlab.io/learning/educational-docs/challenge/c_1/):point_left:
-    13/02/24-16/02/24
+
 
 
 
