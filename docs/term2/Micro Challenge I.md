@@ -59,16 +59,21 @@ hide:
     !!! note " _**Initial idea/ Concept:**_"
         
 
-        ### Our concept combines a **gyroscope** with a **sound system** add-on, using eco-friendly **bio-materials**. While this introduces **electrical components**, it aims to minimize wastefulness, appealing to eco-conscious consumers.
+        > This is our attempt to develop a DIY Bio-Electrical earring: the initial concept was to modify an audio file through head movements. The signal that goes to the speaker was supposed to pass through a conductive bioplastic, in order to create an umpredictable noise to the track. Unfortunately, due to few time available, we had to simplify the project, and here we will illustrate our attempt.
 
-    !!! note " _**Purpose:**_"
+        > This prototype allows you to change the pitch of an analog tone through the values of a gyroscope, and reproduce the sound in real-time through a spekaer.
 
-        ### This innovative approach combines advanced technology with sustainability, appealing to environmentally conscious consumers. By incorporating eco-friendly materials and cutting-edge features, the product aims to offer functionality and environmental responsibility simultaneously. This strategic combination could carve out a niche in the market for eco-conscious tech enthusiasts.
 
     !!! info "_**Team Planned**_"
         <center>
 
         ![](../images/term2/micro%20i/plan.png){: style="height:380px;width:600px"}
+        </center>
+        
+        !!! note ""
+            ## **Purpose**
+
+            ### This innovative approach combines advanced technology with sustainability, appealing to environmentally conscious consumers. By incorporating eco-friendly materials and cutting-edge features, the product aims to offer functionality and environmental responsibility simultaneously. This strategic combination could carve out a niche in the market for eco-conscious tech enthusiasts.
 
     !!! bug "**_System diagrams_**"
         <center>
@@ -82,9 +87,11 @@ hide:
 
         - E-wasted Speaker
 
-        - Gyroscope
+        - Adafruit BNO08x: https://learn.adafruit.com/adafruit-9-dof-orientation-imu-fusion-breakout-bno085/arduino
 
-        - Xiao ESP32-C3
+        - Seeed XIAO ESP32C3: https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/
+
+        - 5V Battery
 
 !!! success "**_Design problems and how the team solved them:_**"
     !!! note ""
@@ -101,6 +108,12 @@ hide:
 
         Solution: ❇️ We used the code from barduino Chanllenge Week/ Game Romotor as our linked gyroscope music, we are still searching how to improve the music part. 
 
+    !!! note ""
+        *3. Power*
+
+        Problem: ❓ We have a 3.7V battery but it's not enough to supply our electronics.
+
+        Solution: ❇️ We had to supply the power from the computer :(
 
 
 !!! abstract "**_Future development opportunity:_**"
