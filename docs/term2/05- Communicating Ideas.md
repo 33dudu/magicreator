@@ -23,13 +23,17 @@ hide:
 
 
 !!! tip ""
-    <font color="white"> <center>
+    !!!tip ""
+        <font color="white"> <center>
 
-    ## :green_heart:Stakeholders Radar 
+        ## :green_heart:Stakeholders Radar 
 
-    ![](../images/term2/comm/stakeholders.png){: style="height:400px;width:520px"}
+        ![](../images/term2/comm/stakeholders.png){: style="height:400px;width:520px"}
 
+        
+        <font color="white"> <center>The diagram is highly conceptual. From the central point to the circle's border represents the connections that I hope my project will reach.I used animals from the ocean to represent each genre, and each animal represents a character.
 
+    
 
     !!!tip ""
         <center>
@@ -38,6 +42,7 @@ hide:
 
         ![](../images/term2/comm/GOLDEN%20CIRCLE.png){: style="height:400px;width:550px"}
         
+
 
         <font color="white"> <center>
         <font color="white"> 
@@ -76,16 +81,69 @@ hide:
         
             <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Mml5IpLBd5B6GNgjVpJ1x?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-        !!! info ""
+        !!! tip ""
+            ## <font color="white"> :question:Action Verbs </font color>
 
-        !!! info ""
-            ## GOLDEN CIRCLE
+            <font color="PaleTurquoise"> 
+            ## Explain | Match | Locate | Classify | Solve |Change | Dramatize | Problem-solve | Support |**MAGCREATOR**
+    
+            </font color>
 
-            ![](../images/term2/comm/GOLDEN.png){: style="height:200px;width:200px"}        
-            - The Golden Circle is a tool created by Simon Sinek, to help brand find their ==purpose==.
-    </center>
+        !!! tip ""
+            ## <font color="white"> :question:Purpose Statement </font color>
+
+            <font color="gold"> 
+            ## To **WOR(L)D** so that we are **~~sel~~ fish**
+    
+            </font color>    
+
+        !!! tip ""
+            ## <font color="white"> :question:Core Value </font color>
+
+
+            <font color="BlueViolet"> 
+            ## Balance | Curiosity | Fun | Honesty | Openness | Love | Spirituality| Service| 
+    
+            </font color>
+
+
+        !!! tip ""
+            ## <font color="white"> :question:Personality </font color>
+            
+
+            # **:yin_yang: <font color="lime">TimeTraveler :yin_yang:**
+
+            ![](../images/E1.jpg){: style="height:300px;width:390px"}
+
+            <font color="Beige">
+
+            Medium: **Black Ink & handmade paper**
+
+            When: **October/2023**
+
+            Where: **Barcelona, Catalunya, Spain** 
+
+            What:  **In the quaint ambiance of a manually operated vintage elevator, I found myself in a captivating and unforgettable experience. Picture this: a person from the future, donned in contemporary attire, gracefully ascending in the retro elevator to her chosen destination. Doesn't this scenario evoke a sense of time travel?**
+            
+
+            ## 💛Selfless
+
+            </font color>
+            
+            
+        
+        </center>
+
+
 !!! note "Class notes"
-    ## DAY 01 
+    !!! note ""
+        <center>
+        ## GOLDEN CIRCLE
+
+        ![](../images/term2/comm/GOLDEN.png){: style="height:200px;width:200px"}        
+        - The Golden Circle is a tool created by Simon Sinek, to help brand find their ==purpose==.
+
+
     !!!note ""
 
         ## :question: What is storytelling?
@@ -93,6 +151,8 @@ hide:
         - “The act of conveying stories through the use of words and/or images, usually using improvisation and various stylistic flourishes.” --- WIKIPEDIA
 
         - “The act of conveying stories through the use of words and/or images, VIDEO, AUDIO, SOUNDS, DANCE, ACTIONS, MOVEMENTS, AND OTHERS… usually using improvisation and various stylistic flourishes.” --- Pablo PEDIA
+
+    
 
     !!!note ""
 
@@ -106,17 +166,29 @@ hide:
         - POINT OF VIEW :question: WHO tells the story?
         - ARGUMENT :question: WHAT 
 
-    ## DAY 02 
-
-
-
-
-    ## DAY 03 (13/02/2024)
     !!! note ""
-        ## :question: Who is your project audience?
-        ## :question: Which message do you want to give?
+        - :question: Who is your project audience?
+        - :question: Which message do you want to give?
+        - :question: What are you doing?
+        - :question: Why you do it?
+        - :question: How are you doing it?
+        - :question: Where are you doing it?
 
-        ## :question: What are you doing?
-        ## :question: Why you do it?
-        ## :question: How are you doing it?
-        ## :question: Where are you doing it?
+    !!! note ""
+        ## PPT Key points for future:
+
+        - Problem (+ data numbers#)
+        - Solution
+        - Functional (+ diagrams)
+        - Market (+ data numbers#)
+        - Competitors (+)
+        - Highlights
+        - Road Map
+        - Future
+        - Conclusion
+
+    
+!!! info ""
+    BELOW ARE THE 1.0 VERSION DEFINATION FOR THE **GENTECH ARTMOVEMENT** STICKER. :point_down:
+
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8VR-vPYAl2ipy_9Uy3hTnCTCnG-B2NTLeXDzSDImxaviCBIv3Q-Tm-vcszQ23PdwxZ79bw6UUqAv_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
