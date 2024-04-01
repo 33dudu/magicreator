@@ -113,9 +113,8 @@ hide:
         "It was an interesting seminar to research and play around with the tools of dottod and modmatrix. However, for me, with a background in interior architecture and the history of art, using AI to create art was initially a challenging experience since I was afraid we would lose humanity in our society. But the good thing to note is that these two programs make me not feel as bad about using AI to generate art. I realized that the prompt can change a lot of the art, which now makes me wonder if we live in the world or the 'wor(l)d'."
 
         BELOW ARE THE 1.0 VERSION DEFINATION FOR THE **GENTECH ARTMOVEMENT** STICKER. :point_down:
-
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8VR-vPYAl2ipy_9Uy3hTnCTCnG-B2NTLeXDzSDImxaviCBIv3Q-Tm-vcszQ23PdwxZ79bw6UUqAv_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+        
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTA0rJnbi1l4vXJdfWpquy0mhZPw6HzczLov8taPgLumsgm2Ceie3vw_zT1OdgQbrx41spYfaKEWKs7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 

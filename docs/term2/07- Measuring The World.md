@@ -148,7 +148,7 @@ hide:
 
                 ![](../images/term2/measuring/1.gif){: style="height:300px;width:400px"}
 
-                > We took one picture with G(eek)-sign on each spot to document our succeded :smile_cat:
+                > We took one picture with G(eek)-sign on each spot to document our succeed :smile_cat:
 
                 </center>
 

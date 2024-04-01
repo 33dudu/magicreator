@@ -191,4 +191,4 @@ hide:
 !!! info ""
     BELOW ARE THE 1.0 VERSION DEFINATION FOR THE **GENTECH ARTMOVEMENT** STICKER. :point_down:
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8VR-vPYAl2ipy_9Uy3hTnCTCnG-B2NTLeXDzSDImxaviCBIv3Q-Tm-vcszQ23PdwxZ79bw6UUqAv_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTA0rJnbi1l4vXJdfWpquy0mhZPw6HzczLov8taPgLumsgm2Ceie3vw_zT1OdgQbrx41spYfaKEWKs7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

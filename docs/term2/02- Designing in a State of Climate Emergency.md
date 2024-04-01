@@ -3,9 +3,6 @@ hide:
     - toc
 ---
 
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS
 
 !!! info "Designing in a State of Climate Emergency"
     ## :robot:**Due to my personal reason this seminar is all Virtual. At this point, I love you [TECH](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript).:point_left:**:robot:

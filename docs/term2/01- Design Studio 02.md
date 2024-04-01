@@ -16,27 +16,11 @@ hide:
     
     - YAADIg?
     </center>
+    
+!!! info ""
+    
+    <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNbm96Ts=/?pres=1&frameId=3458764579593994530&embedId=940354248199" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-!!! abstract "RESEARCH"
-
-    1. 阿鲁纳奇
-        - 010101
-        - gold
-        - he gives us many perspective of cultures and mading methods that help us improving the commnication with earth. 
-
-
-    2. **pixiel art**
-        - voxel art
-
-    3. From annna
-        - https://janneschimmel.com/
-
-    4. Sounds System
-
-    5. Graffiti
-
-!!! danger "2.0 AwoS"
-    # Coming Soon
 
 !!!info "Reference"
 
