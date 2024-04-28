@@ -20,7 +20,7 @@ hide:
     
     
 !!! abstract "Notes"
-    # IN PROGRESS😶‍🌫️
+    [Pad](https://pad.riseup.net/p/MDEF_Curation_FEST-keep)
 
    
 
