@@ -45,11 +45,12 @@ nav:
           - FUTURE TALKS: term2/04- Future Talks.md
           - COMMUNICATING IDEAS: term2/05- Communicating Ideas.md
           - DIGITAL PROTOTYPING FOR DESIGN: 
-              - CLASSNOTE: term2/Digital Prototyping for Design.md
-              - BIO-EXPLORATION: term2/06- Bio-exploration in design.md
-              - MICRO CHALLENGE: term2/Micro Challenge I.md
-          - MEASURING THE WORLD: term2/07- Measuring The World.md
-          - DESIGNING WITH EXTENDED INTELLIGENCES: term2/08- Designing with Extended Intelligences.md
+              - TASK01: term2/TASK01Digital Prototyping for Design.md
+              - TASK02: term2/TASK02Digital Prototyping for Design.md
+              - MICRO CHALLENGE I: term2/Micro Challenge I.md
+              - MICRO CHALLENGE II: term2/Micro Challenge II.md
+          - MEASURING THE WORLD: term2/06- Measuring The World.md
+          - DESIGNING WITH EXTENDED INTELLIGENCES: term2/07- Designing with Extended Intelligences.md
       - Term 3:
           - DESIGN STUDIO 03: term3/01- Design Studio 03.md
           - FUTURE TALKS: term3/02- Future Talks.md
@@ -58,7 +59,11 @@ nav:
           - COMMUNICATING IDEAS: term3/05- Communicating Ideas.md
           - THE ATLAS OF WEAK SIGNALS: term3/06- The Atlas of Weak Signals.md
           - MDEFest 2024: term3/07- MDEFest 2024.md
-          - DIGITAL PROTOTYPING FOR DESIGN: term3/08- Digital Prototyping for Design.md
+          - DIGITAL PROTOTYPING FOR DESIGN:
+              - TASK03: term3/Task03.md
+              - TASK04: term3/Task04.md
+              - TASK05: term3/Task05.md
+              - MICRO CHALLENGE III: term3/Micro Challenge III.md
   - MASTER PROJECT:
       - GenTe Art Movement: project/gente.md
       

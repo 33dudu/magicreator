@@ -3,9 +3,27 @@ hide:
     - toc
 ---
 
+
+
 !!! Warning "HAPPENING"  
     
-    #IN PROGRESS
+    #IN PROGRESS 😅
+
+    !!! bug "To-do-list"
+        > Design and fabricate a pressfit prototype of your choice
+        
+        - [ ] Playing with the mixture- Bio materials and wasted[Jamaica Coffee powder]
+        - [ ] Laster cut the new bio-materials
+        - [ ] Organize the process pictures
+
+!!! info "Task 01 Digital Prototying for Design"
+    ==FACULTY==: Santiago Fuentemilla Garriga/ Oscar Gonzalez/ Josep Marti Elias/ Petra Garajová/ Adai Surinach
+
+    ==CALENDAR==: 17/01/2024 
+
+    ==TRACK==: Application
+
+    ## [TASK01](https://fablabbcn-projects.gitlab.io/learning/educational-docs/tasks/task_module1/):point_left:
 
 
 !!! info "BIO EXPLORATION"
@@ -91,3 +109,6 @@ hide:
         | Solvent            | 60ml water             |
         | Wasted | :heart: Flora Teabag |
         | Texture| Flexible |
+
+
+

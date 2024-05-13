@@ -3,23 +3,30 @@ hide:
     - toc
 ---
 
+
+
 !!! Warning "HAPPENING"  
     
-    #IN PROGRESS
+    #IN PROGRESS 😅
 
-!!! info "Prototyping for Interaction Design"
-    ==FACULTY==: Citlali Hernández|Lina Bautista|Gerard Valls
-    
-    ==CALENDAR==: Module 4: 23/04|24/04|Module 5: 29/04|30/04|Micro-challenge III: 07-08-09-10/05|2024
+    !!! bug "To-do-list"
+        > Prototype your wearable and experiment with your training model. 
+        
+        - [ ] 1- Develop your soft sensor prototype 
+        - [ ] 2- Buil your dataset with 3 osc messages. Ex (Face recogintion + softsensor + other imput) 
+        - [ ] 3- Train de model
+        
 
-    ==TRACK==: Instrumentation
 
-    ## [FabLab](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/digitalprototyping/):point_left:
+!!! info "Task 04 Digital Prototying for Design"
+    ==FACULTY==: Santiago Fuentemilla Garriga/ Citlali Hernández/ Gerard Valls
 
-!!! quote
+    ==CALENDAR==: 19/04/2024 
 
-    # IN PROGRESS🏝️
-    
+    ==TRACK==: Application
+
+    ## [TASK04](https://fablabbcn-projects.gitlab.io/learning/educational-docs/tasks/task_module4/):point_left:
+
     
 !!! abstract "Notes"
     !!! note ""

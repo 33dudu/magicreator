@@ -20,9 +20,19 @@ hide:
     
     
 !!! abstract "Notes"
-    # IN PROGRESS😶‍🌫️
+    > Video Structure 
+    
+    !!! bug ""
+        Question: [assumption], ==What if ~~~~~~~~~~~~==, [or hypothesis]
+
+    !!! bug ""
+        ## 5 W's
+        | WHY | WHAT | WHO | WHERE | WHEN |
+
+    
 
    
 
 !!! example "Reference"
-    # IN PROGRESS🧐
+    [Exploring The Underwater World/BBC Earth](https://www.youtube.com/watch?v=EF8C4v7JIbA&list=FLvdEIsKdG9iMPnD62qmJT9Q) 
+    > 2:30|29:41

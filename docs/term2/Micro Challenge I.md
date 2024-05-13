@@ -4,7 +4,7 @@ hide:
 ---
 
 
-!!! info "Micro Challenge"
+!!! info "Micro Challenge I"
     ==FACULTY==: Santiago Fuentemilla Garriga/ Oscar Gonzalez/ Josep Marti Elias/ Petra Garajová/ Adai Surinach/ Aurel Richard/ Mikel Llobera/ Gerard Valls
 
     ==CALENDAR==: 13/02/2024- 16/02/2024 
