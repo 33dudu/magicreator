@@ -14,7 +14,7 @@ hide:
         
         - [ ] 1- Develop your soft sensor prototype 
         - [ ] 2- Buil your dataset with 3 osc messages. Ex (Face recogintion + softsensor + other imput) 
-        - [ ] 3- Train de model
+        - [ ] 3- Train the model
         
 
 
@@ -70,11 +70,40 @@ hide:
                 A[INput: Gesture, Movement, Action] --> B{Mapping: And data processing};
                 B --> C{OUTput: Light, Mechanisms, Sound, ETC};
             ```
+    
+        !!! note "Emotion Detection"
+            1. **Vision Based Techniques:**
+                - Speech Recognition
+                - Facial Recognition
+                - Gait Recognition (how we walk)
+                - Gaze Recognition (how we look)
 
-    how do you kmow how do you feel? how do you do?- Bill Verplan
+            2. **Physiological data signal analysis:**
+                - EEG (Electroenceohalogram): measures electrical activity in the brain
+                - ECG (Electrocardiogram): records the electrical signals in the heart
+                - EMG (Electromygram): muscle movement control
+                - GSR (Galvanic Skin Response): electrical changes in the skin caused by sweat gland activity
+                - RSP (Respiration ):measuring the physical change of the thoracic expansion with a rubber band around the chest or belly
+
+        !!! note "Emotion Detection & Machine Learning"
+            :question: What a Machine Learning System is and needs:
+
+            0. Data sets
+
+            1. Algorithms (Neural nets, Markov Chains, etc...)
+
+            2. Models (trained)
+
+            Diagram:
+
+            ![](../images/term3/digital%20proto/data-preparation-workflow.png){: style="height:300px;width:350px"}
+
+    !!! quote "WEKINATOR"
+
+        ### 1. [What is WEKINATOR?](http://www.wekinator.org/)
             
     
-    [How to get what you want](https://www.kobakant.at/DIY/)
+
 
 
  
@@ -84,3 +113,9 @@ hide:
 
     !!! bug ""
         [the machine is leaning-Marije Baalman](https://marijebaalman.eu/projects/the-machine-is-learning.html)
+
+    !!! bug ""
+        [How to get what you want](https://www.kobakant.at/DIY/)
+
+    !!! bug ""
+        [The Python Toolbox for Neurophysiological Signal Processing](https://neuropsychology.github.io/NeuroKit/introduction.html)
