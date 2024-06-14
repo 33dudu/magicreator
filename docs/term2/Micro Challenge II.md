@@ -52,3 +52,12 @@ hide:
 
     !!! bug " "
         This is a brand new and fascinating experiment. Through this collaboration with the team and with the guidance of our teacher, I discovered that many discarded pieces of trash might seem "dead". However, when selected by humans and given new life through art, they become truly intriguing. We often say that machines are lifeless and fixed, while nature is free and dynamic. In this project, I incorporated an interesting natural organism I encountered in Jamaica—the mimosa plant. When you approach a mimosa, it naturally gives you a warning or signal, which is undoubtedly a display of natural wisdom. We have infused this wisdom into 'Gaia' as well. When humans approach, the soft robotics respond accordingly. Additionally, we incorporated algae, and mycelium into 'Gaia'. These elements together beautifully demonstrate the symbiotic relationship between technology and nature, provoking deep reflection.
+
+    !!! note ""
+        More information about Gaia, congratulation for us to exhibited the project in Cesenatico, Italy
+
+        ![](../images/term2/micro%20ii/gaia01.jpg)
+
+        ![](../images/term2/micro%20ii/gaiapage02.jpg)
+
+

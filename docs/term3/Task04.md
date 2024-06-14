@@ -3,21 +3,6 @@ hide:
     - toc
 ---
 
-
-
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS 😅
-
-    !!! bug "To-do-list"
-        > Prototype your wearable and experiment with your training model. 
-        
-        - [ ] 1- Develop your soft sensor prototype 
-        - [ ] 2- Buil your dataset with 3 osc messages. Ex (Face recogintion + softsensor + other imput) 
-        - [ ] 3- Train the model
-        
-
-
 !!! info "Task 04 Digital Prototying for Design"
     ==FACULTY==: Santiago Fuentemilla Garriga/ Citlali Hernández/ Gerard Valls
 
@@ -102,7 +87,11 @@ hide:
 
         ### 1. [What is WEKINATOR?](http://www.wekinator.org/)
             
-    
+    !!! note "Good experienced"
+        > Playing around with Wekinator, I wish we can have more time to playaround with it. 
+
+
+        ![](../images/term3/digital%20proto/weki.png){: style="height:300px;width:350px"}
 
 
 

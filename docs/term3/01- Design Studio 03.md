@@ -35,3 +35,5 @@ https://www.aqua-imports.com/product/green-bubble-coral/
 https://www.liveaquaria.com/product/481/?pcatid=481
 
 https://www.simplicityaquatics.com/blog/for-beginners-guide-to-soft-corals/
+
+https://edinburghsoundmassage.com/blog/f/cymatics-the-visual-representation-of-sound-and-vibration

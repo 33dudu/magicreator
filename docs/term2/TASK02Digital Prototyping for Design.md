@@ -3,22 +3,8 @@ hide:
     - toc
 ---
 
-
-
-!!! Warning "HAPPENING"  
-    
-    #IN PROGRESS 😅
-
-
-    !!! bug "To-do-list"
-        > Design and Bio3d print a small object with a paste printing machine.
-
-        - [ ] Build digital model in Rhino
-        - [ ] Test the machine and materials
-        - [ ] Print
-    
 !!! info "Task 02 Digital Prototying for Design"
-    ==FACULTY==: Santiago Fuentemilla Garriga/ Oscar Gonzalez/ Josep Marti Elias/ Petra Garajová/ Adai Surinach
+    ==FACULTY==: Santiago Fuentemilla Garriga/ Josep Marti Elias/ Petra Garajová/ Adai Surinach
 
     ==CALENDAR==: 31/01/2024 
 
@@ -42,5 +28,18 @@ hide:
 
         [plaster studio](http://www.theplastercollective.com/el-panamericano-1)
         
-        Side notes for Kombucha: test the ph#, usually the # of ph are 3-4
+        > Side notes for Kombucha: ALWAYS test the ph#, usually the # of ph are between 3-4.
 
+        
+
+    !!! note "Experience the Mycelium"
+        > The process pictures of making Mycelium with Annna and Everardo for our GAIA project
+
+        ![](../images/term2/bio/GAIA08%20(1).jpg){: style="height:300px;width:500px"}'
+        ![](../images/term2/bio/gif.gif){: style="height:300px;width:200px"}'
+
+
+    !!! note "FOR FUTURE"
+        
+
+        ![](../images/term2/bio/WING.png){: style="height:500px;width:800px"}
