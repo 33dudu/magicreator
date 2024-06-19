@@ -60,4 +60,8 @@ hide:
 
         ![](../images/term2/micro%20ii/gaiapage02.jpg)
 
+!!! bug "Personal Reflection"
+    !!! info ""
+        During micro Challenge II we had four people in the group, so we had more advantages and could accomplish more in one week. Working with people is really fun, and we can share many interesting things and come up with many crazy ideas. I love this challenge; I learn as I play, which I think is the best way to learn. The most exciting part was when we looking for the abandoned electronics and testing them, thinking about how we could put them together and arrange their positions. For me is like playing advance LEGO. Big THANK to Santi for trusting and allowing us to use the electronics. 💚
+
 

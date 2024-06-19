@@ -25,7 +25,7 @@ hide:
 
         ### [PureGold](https://pure-gold.org/)👈
 
-        > "It was a great opportunity to have the Micro Challenge III combined with the Pure Gold workshop. The Pure Gold workshop is a four-day full-day immersive experience. By using trash to rethink and redesign it for upcycling, we aimed to achieve the goal of top-down, bottom-up sustainability. During the four days of the workshop, I learned a lot. I questioned myself: **what makes a good designer?** **Am I creating a new art installation or am I simply producing more trash?** As the workshop concluded, I left with a renewed perspective on design and a commitment to continue exploring innovative ways to repurpose materials and create meaningful, sustainable art. Additionally, through interactive art, I solidified my goal of incorporating technology and intelligence to bring the **tra$h to life**."
+
 
     !!! bug "Stop-motion video"
         Coming soon~💌
@@ -122,7 +122,10 @@ hide:
             <center>
             ![](../images/term3/digital%20proto/DIAGRAM.png){: style="height:300px;width:450px"}
 
-
+!!! bug "Personal Reflection"
+    !!! info ""
+        It was a great opportunity to have the Micro Challenge III combined with the Pure Gold workshop. The Pure Gold workshop is a four-day full-day immersive experience. By using trash to rethink and redesign it for upcycling, aimed to achieve the goal of top-down, bottom-up sustainability. During the four days of the workshop, I learned a lot. I questioned myself: **what makes a good designer?** **Am I creating a new art installation or am I simply producing more trash?** As the workshop concluded, I left with a renewed perspective on design and a commitment to continue exploring innovative ways to repurpose materials and create meaningful, sustainable art. Additionally, through interactive art, I solidified my goal of incorporating technology and intelligence to bring the **tra$h to life**.	💛
+         
 !!! example "YOU GOT THIS -O-"
     [BREADBOARD](https://blog.csdn.net/zhuoqingjoking97298/article/details/106269740)
 

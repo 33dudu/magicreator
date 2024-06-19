@@ -161,7 +161,10 @@ hide:
 
         ![](../images/term2/micro%20i/rng.png){: style="height:200px;width:280px"}
 
-        
+!!! bug "Personal Reflection"
+    !!! info ""
+        This was a one-week micro challenge, and it was also our first challenge. During this whole week, time went by so fast. With two people in a group, we had a lot to learn, and our time management and workflow separation needed improvement. This time, we mainly focused on the electronic components. We did not leave enough time for the facade design, and the electronic component connections were a huge challenge for us. Since we were trying to create a wearable item for the ear, we needed to ensure everything was small, so we spent a lot of time on soldering. In the end, we realized that the soldering station is extremely important, and having a third hand is essential for soldering. I loved this micro challenge even though it was super intense, but I learned a lot from it.
+
 !!! note "**_References:_**"
 
     [Ear Cuff Sizing](https://yepremjewellery.com/pages/ear-cuff-sizing)
