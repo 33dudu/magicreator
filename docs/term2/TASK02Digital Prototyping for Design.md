@@ -12,6 +12,40 @@ hide:
 
     ## [TASK02](https://fablabbcn-projects.gitlab.io/learning/educational-docs/tasks/task_module2/):point_left:
 
+
+!!! info "How to make a Soft Robot"
+    !!! abstract ""
+        Big thanks to this amazing "digital professor" Rafarl Diaz [Gesture controlled soft robot tentacle](https://www.hackster.io/blight3d/gesture-controlled-soft-robot-tentacle-0b9f68)👈
+
+
+        > Step 1: 3D print the mold
+
+        ![](../images/term2/bio/3d%20print%20process.png){: style="height:300px;width:400px"}'
+        ![](../images/term2/bio/3d%20print.gif){: style="height:300px;width:200px"}'
+
+        > Step 2: Know and choose your Silicone
+
+        ![](../images/term2/bio/silicone%20type.png){: style="height:300px;width:200px"}'
+
+        !!! example ""
+             * Recommandation store in Barcelona for Silicone
+                
+                [Formx](https://www.formx.es/)👈
+
+
+        > Step 3: Concrete the facade to protect the Silicone
+
+        ![](../images/term2/bio/facade.gif){: style="height:300px;width:200px"}'
+
+
+        > Step 4: Genteelly mix and pour the Silicone into the mold
+
+        ![](../images/term2/bio/mix%20and%20pour.gif){: style="height:300px;width:200px"}'
+
+        > Step 5: Result~
+
+        ![](../images/term2/bio/soft%20result.png){: style="height:300px;width:200px"}'
+
 !!! abstract "ClassNotes"
     !!!note "Module 2 "
         01/31/24, 02/01/24
