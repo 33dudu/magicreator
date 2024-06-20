@@ -18,7 +18,7 @@ hide:
         Big thanks to this amazing "digital professor" Rafarl Diaz [Gesture controlled soft robot tentacle](https://www.hackster.io/blight3d/gesture-controlled-soft-robot-tentacle-0b9f68)👈
 
 
-        > Step 1: 3D print the mold
+        > Step 1: 3D print the mold 
 
         ![](../images/term2/bio/3d%20print%20process.png){: style="height:300px;width:400px"}'
         ![](../images/term2/bio/3d%20print.gif){: style="height:300px;width:200px"}'
