@@ -13,7 +13,7 @@ nav:
       - Entrance: index.md 
       - Catalan Modernism: cat.md
   - KNOCK,KNOCK: about/me.md
-  - REFLECTIONS :
+  - YEAR 01:
       - Term 1:
           - LANDING: term1/01-Landing.md
           - DESIGN STUDIO 01: 
@@ -64,6 +64,16 @@ nav:
               - TASK04: term3/Task04.md
               - TASK05: term3/Task05.md
               - MICRO CHALLENGE III: term3/Micro Challenge III.md
+  - YEAR 02:
+      - Term 1:
+          - Fabricademy: 
+              - Natural Dyes: term01/Natural Dyes.md
+              - Soft Robotics: term01/Soft Robotics.md
+          - Research & Methods Workshop: term01/RM workshop.md
+          - Ecological Interaction: term01/Ecological Interaction.md
+          - Interaction & Prototyping: term01/Interaction Prototyping.md
+          - Thesis Project: term01/Thesis Project.md
+          - Emerging Economies: term01/Emerging Economies.md
   - MASTER PROJECT:
       - GenTe Art Movement: project/gente.md
       
