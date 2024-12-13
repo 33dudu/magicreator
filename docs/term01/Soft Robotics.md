@@ -43,7 +43,7 @@ hide:
     !!! note "Experiences"
         ## Hands on
 
-        Marius, Anuja, and I decided to work together to create an inflatable chocolate. We designed a 3D file with the word 'Chocacademy' and printed it. Once the 3D print was ready, we started working on the edible silicone paste and poured it into the mold. We also worked on the Arduino component, Flora, and learned how to connect it to a motor to pump air.
+        Marius, Manuja, and I decided to work together to create an inflatable chocolate. We designed a 3D file with the word 'Chocacademy' and printed it. Once the 3D print was ready, we started working on the edible silicone paste and poured it into the mold. We also worked on the Arduino component, Flora, and learned how to connect it to a motor to pump air.
 
         Below, you can see the images of our exploration. As a result, the mold had holes around the edges, so we had to use our hands to cover them in order to inflate it.
 

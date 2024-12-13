@@ -20,7 +20,11 @@ hide:
     
     
 !!! abstract "Notes"
-    # IN PROGRESS😶‍🌫️
+    ## What is Llum?
+
+    Llum (Catalan for "light") is a major annual light festival held in Barcelona, Spain. The festival transforms the Poblenou neighborhood into a creative canvas where artists, designers, and architects present innovative light installations. It usually takes place in February and is part of the broader Santa Eulàlia Festival, one of Barcelona's major winter celebrations.
+
+    
 
    
 

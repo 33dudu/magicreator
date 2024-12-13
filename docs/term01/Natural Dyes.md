@@ -22,64 +22,66 @@ hide:
 
     Biochromes are natural pigments found in living organisms. They are responsible for the wide range of colors seen in plants, animals, and microorganisms. These pigments play various roles, including attracting mates, camouflage, photosynthesis, and protection against harmful UV radiation.
 
-    ## Types of Biochromes:
+    !!! abstract ""
+        ## Types of Biochromes:
     
+        !!! note ""
+            Chlorophyll
+
+            Color: Green
+            Function: Essential for photosynthesis in plants, algae, and cyanobacteria.
+            
+
+        !!! note ""    
+            Carotenoids
+
+            Colors: Yellow, orange, and red
+
+            Examples: Found in carrots (beta-carotene), autumn leaves, and flamingo feathers.
+            Function: Protect cells from damage caused by light and oxidation, and contribute to photosynthesis.
+
+        !!! note ""    
+            Anthocyanins
+
+            Colors: Red, purple, and blue
+            Examples: Present in berries, flowers, and leaves.
+            Function: Protect against UV radiation and oxidative stress, attract pollinators.
+
+        !!! note ""    
+            
+            Melanin
+
+            Colors: Brown, black, and some yellow
+            
+            Examples: Found in human skin, hair, and the feathers of birds.
+        
+            Function: Provides protection against UV radiation and contributes to camouflage and display.
+        
+        !!! note ""    
+        
+            Bilins (e.g., Phycobilins)
+
+            Colors: Blue and red
+        
+            Examples: Found in cyanobacteria and red algae.
+            
+            Function: Involved in photosynthesis and coloration.
+        
+        !!! note ""    
+            Flavonoids
+
+            Colors: Yellow to red
+        
+            Examples: Found in flowers and fruits.
+        
+            Function: Involved in UV protection and attracting pollinators.
+
     !!! note ""
-        Chlorophyll
+        ## Hands on
 
-        Color: Green
-        Function: Essential for photosynthesis in plants, algae, and cyanobacteria.
-        
+        During class time, we had the chance for hands-on learning. We collected different organic materials, such as purple cabbage, onion, basil, etc., as well as organic waste like leaves and fruit peels. We used these to make many amazing pigments on fabric. Additionally, by adding chemical elements such as iron, aluminum, vinegar, and baking soda, we could easily change the pH level of the pigment, which altered the color.
 
-    !!! note ""    
-        Carotenoids
-
-        Colors: Yellow, orange, and red
-
-        Examples: Found in carrots (beta-carotene), autumn leaves, and flamingo feathers.
-        Function: Protect cells from damage caused by light and oxidation, and contribute to photosynthesis.
-
-    !!! note ""    
-        Anthocyanins
-
-        Colors: Red, purple, and blue
-        Examples: Present in berries, flowers, and leaves.
-        Function: Protect against UV radiation and oxidative stress, attract pollinators.
-
-    !!! note ""    
-        
-        Melanin
-
-        Colors: Brown, black, and some yellow
-        
-        Examples: Found in human skin, hair, and the feathers of birds.
-    
-        Function: Provides protection against UV radiation and contributes to camouflage and display.
-    
-    !!! note ""    
-    
-        Bilins (e.g., Phycobilins)
-
-        Colors: Blue and red
-    
-        Examples: Found in cyanobacteria and red algae.
-        
-        Function: Involved in photosynthesis and coloration.
-    
-    !!! note ""    
-        Flavonoids
-
-        Colors: Yellow to red
-    
-        Examples: Found in flowers and fruits.
-    
-        Function: Involved in UV protection and attracting pollinators.
-
-    ## Hands on
-
-    During class time, we had the chance for hands-on learning. We collected different organic materials, such as purple cabbage, onion, basil, etc., as well as organic waste like leaves and fruit peels. We used these to make many amazing pigments on fabric. Additionally, by adding chemical elements such as iron, aluminum, vinegar, and baking soda, we could easily change the pH level of the pigment, which altered the color.
-
-    ![](../images/biochromes/example.png){: style="height:300px;width:420px"}
+        ![](../images/biochromes/example.png){: style="height:300px;width:420px"}
 
     !!! note ""
 
