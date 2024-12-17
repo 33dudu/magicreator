@@ -56,6 +56,38 @@ hide:
         ![](../images/soft%20robotic/wait.jpg){: style="height:500px;width:350px"}
         ![](../images/soft%20robotic/soft%20robotic.gif){: style="height:500px;width:600px"}
 
+        !!!failure "IF..."
+            The pink silicone I used is designed for food-safe applications. This type of silicone typically has a stiffer structure and lower elasticity, which limits its flexibility for soft robotics applications.
+            
+            !!!success "I CAN"
+                - Use flexible silicone such as **Ecoflex 00-30** or **Dragon Skin** (often used in soft robotics). These types of silicone have higher elasticity and can stretch without tearing.
+                
+                - When selecting silicone, check the Shore hardness rating:
+                
+                **Lower Shore ratings (e.g., Shore 00-10 or 00-30) are better for soft robotics due to their increased flexibility.**
+
+            !!!success "I CAN"
+                - Heat transfer fabric (also known as heat-sealable fabric) is a type of material designed to be sealed together using heat. It is often coated with a layer of thermoplastic material like TPU (Thermoplastic Polyurethane). When heat and pressure are applied, the coated layers bond together to create airtight seals.
+
+                Create Inflatable Chambers:
+                
+                I can cut the fabric into the desired shapes and layer them together.
+                
+                - Heat Sealing:
+
+                Use a heat press, an iron, or a heat-sealing machine to bond the layers at the edges, creating an airtight pocket.
+
+                - Inflation:
+
+                Once sealed, air can be pumped into the chamber, causing it to inflate and expand.
+
+                - Applications:
+
+                Inflatable grippers, actuators, or soft robotic limbs.
+                
+                Heat transfer fabric is used to create inflatable structures or air pockets that expand when air is pumped into them.
+
+
 !!! example "Reflection"
     I wasn’t very satisfied with this class. First of all, last year I had already worked with my classmates to create a soft robotic project* on our own. I expected this class to enhance my knowledge, but it clearly didn’t. The entire course was poorly organized and rushed, and the inflation method and circuit connections used were neither practical nor efficient. However, this time I used food-safe silicone, which was the only aspect of the class that I found satisfying.
 
