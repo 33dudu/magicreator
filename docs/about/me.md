@@ -60,7 +60,7 @@ hide:
         !!! example "Follow-up"
             Do you want to check out the young "mi"  :blush:
 
-            GO HERE: https://pelican-bellflower-gpl6.squarespace.com/
+            GO HERE: https://www.qianyindu.com/
 
         !!! info "Contact me"
             
